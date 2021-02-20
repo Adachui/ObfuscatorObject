@@ -1,0 +1,33 @@
+<personinfo>
+  <Level>1</Level>
+  <AllExp>0</AllExp>
+  <Exp>0</Exp>
+  <Name>""</Name>
+  <EquipmentId>0</EquipmentId>
+  <IncomeSecond>0</IncomeSecond>
+  <IncomeSecondUnit>0</IncomeSecondUnit>
+  <IncomeAll>0</IncomeAll>
+  <IncomeAllUnit>0</IncomeAllUnit>
+  <IncomeBuffLv>0</IncomeBuffLv>
+  <IncomeBuffId>0</IncomeBuffId>
+  <IncomeBuffNum>0</IncomeBuffNum>
+  <CutPriceBuffLv>0</CutPriceBuffLv>
+  <CutPriceBuffId>0</CutPriceBuffId>
+  <CutPriceBuffNum>0</CutPriceBuffNum>
+  <Coins>0</Coins>
+  <CoinsUnit>0</CoinsUnit>
+  <PathCoins>0</PathCoins>
+  <PathCoinsUnit>0</PathCoinsUnit>
+  <Diamond>0</Diamond>
+  <DiamondUnit>0</DiamondUnit>
+  <SoundEffect>1</SoundEffect>
+  <SoundMusic>1</SoundMusic>
+  <RoleActiviteNum>0</RoleActiviteNum>
+  <RoleMaxNum>0</RoleMaxNum>
+  <BlockNum>4</BlockNum>
+  <IsGoldVip>0</IsGoldVip>
+  <SpeedBuffTime>0</SpeedBuffTime>
+  <GetMaxBuildLv>1</GetMaxBuildLv>
+  <IsExitFree>0</IsExitFree>
+  <LoginTime>0</LoginTime>
+</personinfo>

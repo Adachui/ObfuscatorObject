@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<DialInfo>
+	<Dial1>
+		<SpinId>1</SpinId>
+		<RewardType>1</RewardType>
+		<Time>14400</Time>
+		<Rate>0.2</Rate>
+		<RewardNum>4</RewardNum>
+	</Dial1>
+	<Dial2>
+		<SpinId>2</SpinId>
+		<RewardType>2</RewardType>
+		<Time>0</Time>
+		<Rate>0.25</Rate>
+		<RewardNum>4</RewardNum>
+	</Dial2>
+	<Dial3>
+		<SpinId>3</SpinId>
+		<RewardType>5</RewardType>
+		<Time>0</Time>
+		<Rate>0.05</Rate>
+		<RewardNum>20</RewardNum>
+	</Dial3>
+	<Dial4>
+		<SpinId>4</SpinId>
+		<RewardType>4</RewardType>
+		<Time>60</Time>
+		<Rate>0.25</Rate>
+		<RewardNum>5</RewardNum>
+	</Dial4>
+	<Dial5>
+		<SpinId>5</SpinId>
+		<RewardType>1</RewardType>
+		<Time>86400</Time>
+		<Rate>0.05</Rate>
+		<RewardNum>24</RewardNum>
+	</Dial5>
+	<Dial6>
+		<SpinId>6</SpinId>
+		<RewardType>3</RewardType>
+		<Time>150</Time>
+		<Rate>0.2</Rate>
+		<RewardNum>150</RewardNum>
+	</Dial6>
+</DialInfo>

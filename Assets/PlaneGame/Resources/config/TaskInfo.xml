@@ -1,0 +1,1221 @@
+<?xml version="1.0" ?>
+<TaskInfo>
+	<Task1900>
+		<ID>1</ID>
+		<TaskId>1900</TaskId>
+		<TaskType>1</TaskType>
+		<TaskSubtype>1</TaskSubtype>
+		<TaskName>Hard-working Businessman</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>0|5</Cond>
+		<Award>1|20000</Award>
+		<Desc_EN>Complete 5 mergings</Desc_EN>
+		<Desc_CN>完成5个合成</Desc_CN>
+		<Desc_JP>完全5合成</Desc_JP>
+		<Desc_Fr>5 synthèses complètes</Desc_Fr>
+		<Desc_IT>Completa 5 fusioni</Desc_IT>
+		<Desc_GR>Komplett 5 Mergings</Desc_GR>
+		<Desc_SP>Completa 5 merjas</Desc_SP>
+		<Desc_PT>Complete 5 mesclamentos</Desc_PT>
+		<Desc_RU>Завершить 5 слияний</Desc_RU>
+		<Desc_KR>5 개의 합병을 완료하십시오</Desc_KR>
+		<Desc_TW>完成5個合併</Desc_TW>
+	</Task1900>
+	<Task1901>
+		<ID>2</ID>
+		<TaskId>1901</TaskId>
+		<TaskType>1</TaskType>
+		<TaskSubtype>3</TaskSubtype>
+		<TaskName>Bonus Ads</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>0|3</Cond>
+		<Award>2|5</Award>
+		<Desc_EN>Get watching video bonus for 3 times</Desc_EN>
+		<Desc_CN>观看视频3次</Desc_CN>
+		<Desc_JP>ビデオを3回見る</Desc_JP>
+		<Desc_Fr>Regardez la vidéo 3 fois</Desc_Fr>
+		<Desc_IT>Get watching video bonus per 3 volte</Desc_IT>
+		<Desc_GR>Holen Sie sich Video-Bonus für 3 Mal</Desc_GR>
+		<Desc_SP>Consigue ver el bonus de vídeo por 3 veces</Desc_SP>
+		<Desc_PT>Receba Bônus de vídeo assistindo por 3 vezes</Desc_PT>
+		<Desc_RU>Получить просмотр видео бонуса в 3 раза</Desc_RU>
+		<Desc_KR>3 번 비디오 보너스 받기</Desc_KR>
+		<Desc_TW>獲得3次觀看視頻獎勵</Desc_TW>
+	</Task1901>
+	<Task1800>
+		<ID>3</ID>
+		<TaskId>1800</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>2</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>4|5</Cond>
+		<Award>2|1</Award>
+		<Desc_EN>Get 5 Lv.4 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买5个4级箭塔</Desc_CN>
+		<Desc_JP>店の中では5級の矢の塔が4個買う</Desc_JP>
+		<Desc_Fr>Achetez 5 bâtiments de 4ème niveau dans le magasin</Desc_Fr>
+		<Desc_IT>Prendi 5 lv.4 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 5 Lv.4 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 5 edificios LV.4 en la tienda</Desc_SP>
+		<Desc_PT>Obter 5 LV.4 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 5 уровней 4 здания в магазине</Desc_RU>
+		<Desc_KR>가게에 Level4 건물 5 개 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買5個4級建築</Desc_TW>
+	</Task1800>
+	<Task1801>
+		<ID>4</ID>
+		<TaskId>1801</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>3</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>7|5</Cond>
+		<Award>2|2</Award>
+		<Desc_EN>Get 5 Lv.7 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买5个7级箭塔</Desc_CN>
+		<Desc_JP>店の中では7級の矢の塔が5個買う</Desc_JP>
+		<Desc_Fr>Achetez 5 bâtiments de 7ème niveau dans le magasin</Desc_Fr>
+		<Desc_IT>Prendi 5 lv.7 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 5 Lv.7 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 5 edificios LV.7 en la tienda</Desc_SP>
+		<Desc_PT>Obter 5 LV.7 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 5 зданий Lv.7 в магазине</Desc_RU>
+		<Desc_KR>가게에 5 Lv.7 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買5個7級建築</Desc_TW>
+	</Task1801>
+	<Task1802>
+		<ID>5</ID>
+		<TaskId>1802</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>3</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>7|20</Cond>
+		<Award>2|3</Award>
+		<Desc_EN>Get 20 Lv.7 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买20个7级箭塔</Desc_CN>
+		<Desc_JP>店の中では7級の矢の塔が20個買う</Desc_JP>
+		<Desc_Fr>Achetez 20 bâtiments de 7ème niveau dans le magasin</Desc_Fr>
+		<Desc_IT>Prendi 20 lv.7 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 20 Lv.7 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 20 edificios LV.7 en la tienda</Desc_SP>
+		<Desc_PT>Obter 20 LV.7 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 20 зданий Lv.7 в магазине</Desc_RU>
+		<Desc_KR>가게에서 20 Lv.7 건물을 타십시오.</Desc_KR>
+		<Desc_TW>商店裡購買20個7級建築</Desc_TW>
+	</Task1802>
+	<Task1803>
+		<ID>6</ID>
+		<TaskId>1803</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>3</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>7|50</Cond>
+		<Award>2|5</Award>
+		<Desc_EN>Get 50 Lv.7 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买50个7级箭塔</Desc_CN>
+		<Desc_JP>店の中では7級の矢の塔が50個買う</Desc_JP>
+		<Desc_Fr>Achetez 50 bâtiments de 7ème niveau dans le magasin</Desc_Fr>
+		<Desc_IT>Prendi 50 lv.7 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 50 Lv.7 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 50 edificios LV.7 en la tienda</Desc_SP>
+		<Desc_PT>Obter 50 LV.7 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 50 зданий Lv.7 в магазине</Desc_RU>
+		<Desc_KR>가게에 50 개의 Lv.7 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買50個7級建築</Desc_TW>
+	</Task1803>
+	<Task1804>
+		<ID>7</ID>
+		<TaskId>1804</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>3</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>7|100</Cond>
+		<Award>2|8</Award>
+		<Desc_EN>Get 100 Lv.7 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买100个7级箭塔</Desc_CN>
+		<Desc_JP>店の中では7級の矢の塔が100個買う</Desc_JP>
+		<Desc_Fr>Achetez 100 bâtiments de 7ème niveau dans le magasin</Desc_Fr>
+		<Desc_IT>Prendi 100 lv.7 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 100 Lv.7 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 100 edificios LV.7 en la tienda</Desc_SP>
+		<Desc_PT>Obter 100 LV.7 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 100 Lv.7 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 100 개의 Lv.7 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買100個7級箭塔</Desc_TW>
+	</Task1804>
+	<Task1805>
+		<ID>8</ID>
+		<TaskId>1805</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>3</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>7|200</Cond>
+		<Award>2|10</Award>
+		<Desc_EN>Get 200 Lv.7 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买200个7级箭塔</Desc_CN>
+		<Desc_JP>店の中では7級の矢の塔が200個買う</Desc_JP>
+		<Desc_Fr>Achetez 200 bâtiments de 7ème niveau dans le magasin</Desc_Fr>
+		<Desc_IT>Prendi 200 lv.7 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 200 Lv.7 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 200 edificios LV.7 en la tienda</Desc_SP>
+		<Desc_PT>Obter 200 LV.7 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 200 Lv.7 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 200 개의 Lv.7 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買200個7級箭塔</Desc_TW>
+	</Task1805>
+	<Task1806>
+		<ID>9</ID>
+		<TaskId>1806</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>4</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>11|5</Cond>
+		<Award>2|2</Award>
+		<Desc_EN>Get 5 Lv.11 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买5个11级箭塔</Desc_CN>
+		<Desc_JP>店の中では11級の矢の塔が5個買う</Desc_JP>
+		<Desc_Fr>Obtenez 5 LV.11 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 5 lv.11 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 5 Lv.11 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 5 edificios LV.11 en la tienda</Desc_SP>
+		<Desc_PT>Obter 5 LV.11 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 5 зданий уровня 11 в магазине</Desc_RU>
+		<Desc_KR>가게에있는 Lv.11 건물 5 개를 구하십시오.</Desc_KR>
+		<Desc_TW>商店裡購買5個11級箭塔</Desc_TW>
+	</Task1806>
+	<Task1807>
+		<ID>10</ID>
+		<TaskId>1807</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>4</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>11|20</Cond>
+		<Award>2|3</Award>
+		<Desc_EN>Get 20 Lv.11 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买20个11级箭塔</Desc_CN>
+		<Desc_JP>店の中では11級の矢の塔が20個買う</Desc_JP>
+		<Desc_Fr>Obtenez 20 LV.11 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 20 lv.11 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 20 Lv.11 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 20 edificios LV.11 en la tienda</Desc_SP>
+		<Desc_PT>Obter 20 LV.11 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 20 зданий уровня 11 в магазине</Desc_RU>
+		<Desc_KR>가게에서 20 Lv.11 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買20個11級箭塔</Desc_TW>
+	</Task1807>
+	<Task1808>
+		<ID>11</ID>
+		<TaskId>1808</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>4</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>11|50</Cond>
+		<Award>2|5</Award>
+		<Desc_EN>Get 50 Lv.11 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买50个11级箭塔</Desc_CN>
+		<Desc_JP>店の中では11級の矢の塔が50個買う</Desc_JP>
+		<Desc_Fr>Obtenez 50 LV.11 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 50 lv.11 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 50 Lv.11 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 50 edificios LV.11 en la tienda</Desc_SP>
+		<Desc_PT>Obter 50 LV.11 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 50 зданий уровня 11 в магазине</Desc_RU>
+		<Desc_KR>가게에있는 Lv.11 건물 50 개를 구하십시오.</Desc_KR>
+		<Desc_TW>商店裡購買50個11級箭塔</Desc_TW>
+	</Task1808>
+	<Task1809>
+		<ID>12</ID>
+		<TaskId>1809</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>4</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>11|100</Cond>
+		<Award>2|8</Award>
+		<Desc_EN>Get 100 Lv.11 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买100个11级箭塔</Desc_CN>
+		<Desc_JP>店の中では11級の矢の塔が100個買う</Desc_JP>
+		<Desc_Fr>Obtenez 100 LV.11 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 100 lv.11 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 100 Lv.11 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 100 edificios LV.11 en la tienda</Desc_SP>
+		<Desc_PT>Obter 100 LV.11 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 100 зданий Lv.11 в магазине</Desc_RU>
+		<Desc_KR>가게에있는 Lv.11 건물 100 개를 구하십시오.</Desc_KR>
+		<Desc_TW>商店裡購買100個11級箭塔</Desc_TW>
+	</Task1809>
+	<Task1810>
+		<ID>13</ID>
+		<TaskId>1810</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>4</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>11|200</Cond>
+		<Award>2|10</Award>
+		<Desc_EN>Get 200 Lv.11 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买200个11级箭塔</Desc_CN>
+		<Desc_JP>店の中では11級の矢の塔が200個買う</Desc_JP>
+		<Desc_Fr>Obtenez 200 LV. 11 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 200 lv. 11 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 200 Lv.11 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 200 edificios LV.11 en la tienda</Desc_SP>
+		<Desc_PT>Obter 200 LV.11 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 200 зданий Lv.11 в магазине</Desc_RU>
+		<Desc_KR>가게에서 200 Lv.11 건물을 구하십시오.</Desc_KR>
+		<Desc_TW>商店裡購買200個11級箭塔</Desc_TW>
+	</Task1810>
+	<Task1811>
+		<ID>14</ID>
+		<TaskId>1811</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>5</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>15|5</Cond>
+		<Award>2|3</Award>
+		<Desc_EN>Get 5 Lv.15 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买5个15级箭塔</Desc_CN>
+		<Desc_JP>店の中では15級の矢の塔が5個買う</Desc_JP>
+		<Desc_Fr>Obtenez 5 LV.15 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 5 lv.15 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 5 Lv.15 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 5 edificios LV.15 en la tienda</Desc_SP>
+		<Desc_PT>Obter 5 LV.15 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 5 зданий Lv.15 в магазине</Desc_RU>
+		<Desc_KR>5 개의 Lv.15 건물을 가게에서 구입하십시오.</Desc_KR>
+		<Desc_TW>商店裡購買5個15級箭塔</Desc_TW>
+	</Task1811>
+	<Task1812>
+		<ID>15</ID>
+		<TaskId>1812</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>5</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>15|20</Cond>
+		<Award>2|5</Award>
+		<Desc_EN>Get 20 Lv.15 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买20个15级箭塔</Desc_CN>
+		<Desc_JP>店の中では15級の矢の塔が20個買う</Desc_JP>
+		<Desc_Fr>Obtenez 20 LV.15 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 20 lv.15 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 20 Lv.15 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 20 edificios LV.15 en la tienda</Desc_SP>
+		<Desc_PT>Obter 20 LV.15 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 20 зданий Lv.15 в магазине</Desc_RU>
+		<Desc_KR>가게에있는 Lv.15 건물 20 개 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買20個15級箭塔</Desc_TW>
+	</Task1812>
+	<Task1813>
+		<ID>16</ID>
+		<TaskId>1813</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>5</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>15|50</Cond>
+		<Award>2|10</Award>
+		<Desc_EN>Get 50 Lv.15 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买50个15级箭塔</Desc_CN>
+		<Desc_JP>店の中では15級の矢の塔が50個買う</Desc_JP>
+		<Desc_Fr>Obtenez 50 LV.15 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 50 lv.15 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 50 Lv.15 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 50 edificios LV.15 en la tienda</Desc_SP>
+		<Desc_PT>Obter 50 LV.15 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 50 зданий Lv.15 в магазине</Desc_RU>
+		<Desc_KR>가게에있는 Lv.15 건물 50 개를 구하십시오.</Desc_KR>
+		<Desc_TW>商店裡購買50個15級箭塔</Desc_TW>
+	</Task1813>
+	<Task1814>
+		<ID>17</ID>
+		<TaskId>1814</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>5</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>15|100</Cond>
+		<Award>2|15</Award>
+		<Desc_EN>Get 100 Lv.15 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买100个15级箭塔</Desc_CN>
+		<Desc_JP>店の中では15級の矢の塔が100個買う</Desc_JP>
+		<Desc_Fr>Obtenez 100 LV.15 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 100 lv.15 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 100 Lv.15 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 100 edificios LV.15 en la tienda</Desc_SP>
+		<Desc_PT>Obter 100 LV.15 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 100 Lv.15 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에있는 Lv.15 건물 100 개를 구하십시오.</Desc_KR>
+		<Desc_TW>商店裡購買100個15級箭塔</Desc_TW>
+	</Task1814>
+	<Task1815>
+		<ID>18</ID>
+		<TaskId>1815</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>5</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>15|200</Cond>
+		<Award>2|20</Award>
+		<Desc_EN>Get 200 Lv.15 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买200个15级箭塔</Desc_CN>
+		<Desc_JP>店の中では15級の矢の塔が200個買う</Desc_JP>
+		<Desc_Fr>Obtenez 200 LV.15 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 200 lv.15 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 200 Lv.15 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 200 edificios LV.15 en la tienda</Desc_SP>
+		<Desc_PT>Obter 200 LV.15 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 200 Lv.15 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에서 200 Lv.15 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買200個15級箭塔</Desc_TW>
+	</Task1815>
+	<Task1816>
+		<ID>19</ID>
+		<TaskId>1816</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>6</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>11</AcceptLv>
+		<Cond>19|5</Cond>
+		<Award>2|3</Award>
+		<Desc_EN>Get 5 Lv.19 towers in the Shop</Desc_EN>
+		<Desc_CN> 商店里购买5个19级箭塔</Desc_CN>
+		<Desc_JP>店の中では19級の矢の塔が5個買う</Desc_JP>
+		<Desc_Fr>Obtenez 5 LV.19 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 5 lv.19 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 5 Lv.19 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 5 edificios LV.19 en la tienda</Desc_SP>
+		<Desc_PT>Obter 5 LV.19 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 5 зданий уровня 19 в магазине</Desc_RU>
+		<Desc_KR>가게에있는 Lv.19 건물 5 개 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買5個19級箭塔</Desc_TW>
+	</Task1816>
+	<Task1817>
+		<ID>20</ID>
+		<TaskId>1817</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>6</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>11</AcceptLv>
+		<Cond>19|20</Cond>
+		<Award>2|5</Award>
+		<Desc_EN>Get 20 Lv.19 towers in the Shop</Desc_EN>
+		<Desc_CN> 商店里购买20个19级箭塔</Desc_CN>
+		<Desc_JP>店の中では19級の矢の塔が20個買う</Desc_JP>
+		<Desc_Fr>Obtenez 20 LV.19 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 20 lv.19 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 20 Lv.19 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 20 edificios LV.19 en la tienda</Desc_SP>
+		<Desc_PT>Obter 20 LV.19 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 20 зданий уровня 19 в магазине</Desc_RU>
+		<Desc_KR>가게에있는 Lv.19 건물 20 개를 구하십시오.</Desc_KR>
+		<Desc_TW>商店裡購買20個19級箭塔</Desc_TW>
+	</Task1817>
+	<Task1818>
+		<ID>21</ID>
+		<TaskId>1818</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>6</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>11</AcceptLv>
+		<Cond>19|50</Cond>
+		<Award>2|10</Award>
+		<Desc_EN>Get 50 Lv.19 towers in the Shop</Desc_EN>
+		<Desc_CN> 商店里购买50个19级箭塔</Desc_CN>
+		<Desc_JP>店の中では19級の矢の塔が50個買う</Desc_JP>
+		<Desc_Fr>Obtenez 50 LV.19 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 50 lv.19 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 50 Lv.19 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 50 edificios LV.19 en la tienda</Desc_SP>
+		<Desc_PT>Obter 50 LV.19 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 50 зданий уровня 19 в магазине</Desc_RU>
+		<Desc_KR>가게에서 50 Lv.19 건물 얻기</Desc_KR>
+		<Desc_TW>商店裡購買50個19級箭塔</Desc_TW>
+	</Task1818>
+	<Task1819>
+		<ID>22</ID>
+		<TaskId>1819</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>6</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>11</AcceptLv>
+		<Cond>19|100</Cond>
+		<Award>2|15</Award>
+		<Desc_EN>Get 100 Lv.19 towers in the Shop</Desc_EN>
+		<Desc_CN> 商店里购买100个19级箭塔</Desc_CN>
+		<Desc_JP>店の中では19級の矢の塔が100個買う</Desc_JP>
+		<Desc_Fr>Obtenez 100 LV.19 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 100 lv.19 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 100 Lv.19 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 100 edificios LV.19 en la tienda</Desc_SP>
+		<Desc_PT>Obter 100 LV.19 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 100 ур.19 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에있는 Lv.19 건물 100 개를 구하십시오.</Desc_KR>
+		<Desc_TW>商店裡購買100個19級箭塔</Desc_TW>
+	</Task1819>
+	<Task1820>
+		<ID>23</ID>
+		<TaskId>1820</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>6</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>11</AcceptLv>
+		<Cond>19|200</Cond>
+		<Award>2|20</Award>
+		<Desc_EN>Get 200 Lv.19 towers in the Shop</Desc_EN>
+		<Desc_CN> 商店里购买200个19级箭塔</Desc_CN>
+		<Desc_JP>店の中では19級の矢の塔が200個買う</Desc_JP>
+		<Desc_Fr>Obtenez 200 LV.19 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 200 lv.19 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 200 Lv.19 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 200 edificios LV.19 en la tienda</Desc_SP>
+		<Desc_PT>Obter 200 LV.19 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 200 зданий уровня 19 в магазине</Desc_RU>
+		<Desc_KR>가게에서 200 Lv.19 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買200個19級箭塔</Desc_TW>
+	</Task1820>
+	<Task1821>
+		<ID>24</ID>
+		<TaskId>1821</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>7</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>15</AcceptLv>
+		<Cond>23|5</Cond>
+		<Award>2|5</Award>
+		<Desc_EN>Get 5 Lv.23 towers in the Shop</Desc_EN>
+		<Desc_CN> 商店里购买5个23级箭塔</Desc_CN>
+		<Desc_JP>店の中では23級の矢の塔が5個買う</Desc_JP>
+		<Desc_Fr>Obtenez 5 LV.23 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 5 lv.23 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 5 Lv.23 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 5 edificios LV.23 en la tienda</Desc_SP>
+		<Desc_PT>Obter 5 LV.23 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 5 Lv.23 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 5 개의 Lv.23 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買5個23級箭塔</Desc_TW>
+	</Task1821>
+	<Task1822>
+		<ID>25</ID>
+		<TaskId>1822</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>7</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>15</AcceptLv>
+		<Cond>23|20</Cond>
+		<Award>2|8</Award>
+		<Desc_EN>Get 20 Lv.23 towers in the Shop</Desc_EN>
+		<Desc_CN> 商店里购买20个23级箭塔</Desc_CN>
+		<Desc_JP>店の中では23級の矢の塔が20個買う</Desc_JP>
+		<Desc_Fr>Obtenez 20 LV.23 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 20 lv.23 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 20 Lv.23 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 20 edificios LV.23 en la tienda</Desc_SP>
+		<Desc_PT>Obter 20 LV.23 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 20 Lv.23 зданий в магазине</Desc_RU>
+		<Desc_KR>C가게에서 20 Lv.23 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買20個23級箭塔</Desc_TW>
+	</Task1822>
+	<Task1823>
+		<ID>26</ID>
+		<TaskId>1823</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>7</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>15</AcceptLv>
+		<Cond>23|50</Cond>
+		<Award>2|10</Award>
+		<Desc_EN>Get 50 Lv.23 towers in the Shop</Desc_EN>
+		<Desc_CN> 商店里购买50个23级箭塔</Desc_CN>
+		<Desc_JP>店の中では23級の矢の塔が50個買う</Desc_JP>
+		<Desc_Fr>Obtenez 50 LV.23 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 50 lv.23 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 50 Lv.23 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 50 edificios LV.23 en la tienda</Desc_SP>
+		<Desc_PT>Obter 50 LV.23 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 50 Lv.23 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에서 50 Lv.23 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買50個23級箭塔</Desc_TW>
+	</Task1823>
+	<Task1824>
+		<ID>27</ID>
+		<TaskId>1824</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>7</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>15</AcceptLv>
+		<Cond>23|100</Cond>
+		<Award>2|20</Award>
+		<Desc_EN>Get 100 Lv.23 towers in the Shop</Desc_EN>
+		<Desc_CN> 商店里购买100个23级箭塔</Desc_CN>
+		<Desc_JP>店の中では23級の矢の塔が100個買う</Desc_JP>
+		<Desc_Fr>Obtenez 100 LV.23 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 100 lv.23 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 100 Lv.23 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 100 edificios LV.23 en la tienda</Desc_SP>
+		<Desc_PT>Obter 100 LV.23 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 100 Lv.23 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 100 개의 Lv.23 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買100個23級箭塔</Desc_TW>
+	</Task1824>
+	<Task1825>
+		<ID>28</ID>
+		<TaskId>1825</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>7</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>15</AcceptLv>
+		<Cond>23|200</Cond>
+		<Award>2|30</Award>
+		<Desc_EN>Get 200 Lv.23 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买200个23级箭塔</Desc_CN>
+		<Desc_JP>店の中では23級の矢の塔が200個買う</Desc_JP>
+		<Desc_Fr>Obtenez 200 LV.23 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 200 lv.23 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 200 Lv.23 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 200 edificios LV.23 en la tienda</Desc_SP>
+		<Desc_PT>Obter 200 LV.23 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 200 Lv.23 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에서 200 Lv.23 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買200個23級箭塔</Desc_TW>
+	</Task1825>
+	<Task1826>
+		<ID>29</ID>
+		<TaskId>1826</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>8</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>19</AcceptLv>
+		<Cond>27|5</Cond>
+		<Award>2|5</Award>
+		<Desc_EN>Get 5 Lv.27 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买5个27级箭塔</Desc_CN>
+		<Desc_JP>店の中では27級の矢の塔が5個買う</Desc_JP>
+		<Desc_Fr>Obtenez 5 LV.27 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 5 lv.27 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 5 Lv.27 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 5 edificios LV.27 en la tienda</Desc_SP>
+		<Desc_PT>Obter 5 LV.27 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 5 зданий уровня 27 в магазине</Desc_RU>
+		<Desc_KR>가게에 5 개의 Lv.27 건물 가져 오기</Desc_KR>
+		<Desc_TW>C商店裡購買5個27級箭塔</Desc_TW>
+	</Task1826>
+	<Task1827>
+		<ID>30</ID>
+		<TaskId>1827</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>8</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>19</AcceptLv>
+		<Cond>27|20</Cond>
+		<Award>2|8</Award>
+		<Desc_EN>Get 20 Lv.27 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买20个27级箭塔</Desc_CN>
+		<Desc_JP>店の中では27級の矢の塔が20個買う</Desc_JP>
+		<Desc_Fr>Obtenez 20 LV.27 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 20 lv.27 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 20 Lv.27 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 20 edificios LV.27 en la tienda</Desc_SP>
+		<Desc_PT>Obter 20 LV.27 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 20 зданий уровня 27 в магазине</Desc_RU>
+		<Desc_KR>가게에 20 개의 Lv.27 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買20個27級箭塔</Desc_TW>
+	</Task1827>
+	<Task1828>
+		<ID>31</ID>
+		<TaskId>1828</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>8</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>19</AcceptLv>
+		<Cond>27|50</Cond>
+		<Award>2|10</Award>
+		<Desc_EN>Get 50 Lv.27 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买50个27级箭塔</Desc_CN>
+		<Desc_JP>店の中では27級の矢の塔が50個買う</Desc_JP>
+		<Desc_Fr>Obtenez 50 LV.27 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 50 lv.27 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 50 Lv.27 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 50 edificios LV.27 en la tienda</Desc_SP>
+		<Desc_PT>Obter 50 LV.27 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 50 ур.27 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에서 50 Lv.27 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買50個27級箭塔</Desc_TW>
+	</Task1828>
+	<Task1829>
+		<ID>32</ID>
+		<TaskId>1829</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>8</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>19</AcceptLv>
+		<Cond>27|100</Cond>
+		<Award>2|20</Award>
+		<Desc_EN>Get 100 Lv.27 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买100个27级箭塔</Desc_CN>
+		<Desc_JP>店の中では27級の矢の塔が100個買う</Desc_JP>
+		<Desc_Fr>Obtenez 100 LV.27 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 100 lv.27 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 100 Lv.27 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 100 edificios LV.27 en la tienda</Desc_SP>
+		<Desc_PT>Obter 100 LV.27 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 100 ур.27 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 100 개의 Lv.27 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買100個27級箭塔</Desc_TW>
+	</Task1829>
+	<Task1830>
+		<ID>33</ID>
+		<TaskId>1830</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>8</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>19</AcceptLv>
+		<Cond>27|200</Cond>
+		<Award>2|30</Award>
+		<Desc_EN>Get 200 Lv.27 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买200个27级箭塔</Desc_CN>
+		<Desc_JP>店の中では27級の矢の塔が200個買う</Desc_JP>
+		<Desc_Fr>Obtenez 200 LV.27 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 200 lv.27 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 200 Lv.27 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 200 edificios LV.27 en la tienda</Desc_SP>
+		<Desc_PT>Obter 200 LV.27 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 200 Lv.27 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에서 200 Lv.27 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買200個27級箭塔</Desc_TW>
+	</Task1830>
+	<Task1831>
+		<ID>34</ID>
+		<TaskId>1831</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>9</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>23</AcceptLv>
+		<Cond>30|3</Cond>
+		<Award>2|10</Award>
+		<Desc_EN>Get 3 Lv.30 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买3个30级箭塔</Desc_CN>
+		<Desc_JP>店の中では30級の矢の塔が3個買う</Desc_JP>
+		<Desc_Fr>Obtenez 3 LV.30 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 3 lv.30 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 3 Lv.30 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 3 edificios LV.30 en la tienda</Desc_SP>
+		<Desc_PT>Obter 3 LV.30 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 3 здания Lv.30 в магазине</Desc_RU>
+		<Desc_KR>3 Lv.30 건물을 가게에서 구입하십시오.</Desc_KR>
+		<Desc_TW>商店裡購買3個30級箭塔</Desc_TW>
+	</Task1831>
+	<Task1832>
+		<ID>35</ID>
+		<TaskId>1832</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>9</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>23</AcceptLv>
+		<Cond>30|5</Cond>
+		<Award>2|20</Award>
+		<Desc_EN>Get 5 Lv.30 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买5个30级箭塔</Desc_CN>
+		<Desc_JP>店の中では30級の矢の塔が5個買う</Desc_JP>
+		<Desc_Fr>Obtenez 5 LV.30 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 5 lv.30 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 5 Lv.30 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 5 edificios LV.30 en la tienda</Desc_SP>
+		<Desc_PT>Obter 5 LV.30 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 5 Lv.30 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 5 개의 Lv.30 건물을 갖춰라.</Desc_KR>
+		<Desc_TW>商店裡購買5個30級箭塔</Desc_TW>
+	</Task1832>
+	<Task1833>
+		<ID>36</ID>
+		<TaskId>1833</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>9</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>23</AcceptLv>
+		<Cond>30|7</Cond>
+		<Award>2|30</Award>
+		<Desc_EN>Get 7 Lv.30 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买7个30级箭塔</Desc_CN>
+		<Desc_JP>店の中では30級の矢の塔が7個買う</Desc_JP>
+		<Desc_Fr>Obtenez 7 LV.30 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 7 lv.30 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 7 Lv.30 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 7 edificios LV.30 en la tienda</Desc_SP>
+		<Desc_PT>Obter 7 LV.30 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 7 Lv.30 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에있는 7 개의 Lv.30 건물을 찾으십시오.</Desc_KR>
+		<Desc_TW>商店裡購買7個30級箭塔</Desc_TW>
+	</Task1833>
+	<Task1834>
+		<ID>37</ID>
+		<TaskId>1834</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>9</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>23</AcceptLv>
+		<Cond>30|9</Cond>
+		<Award>2|40</Award>
+		<Desc_EN>Get 9 Lv.30 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买9个30级箭塔</Desc_CN>
+		<Desc_JP>店の中では30級の矢の塔が9個買う</Desc_JP>
+		<Desc_Fr>Obtenez 9 LV.30 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 9 lv.30 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 9 Lv.30 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 9 edificios LV.30 en la tienda</Desc_SP>
+		<Desc_PT>Obter 9 LV.30 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 9 Lv.30 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에있는 9 개의 Lv.30 건물을 구하십시오.</Desc_KR>
+		<Desc_TW>商店裡購買9個30級箭塔</Desc_TW>
+	</Task1834>
+	<Task1835>
+		<ID>38</ID>
+		<TaskId>1835</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>9</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>23</AcceptLv>
+		<Cond>30|12</Cond>
+		<Award>2|50</Award>
+		<Desc_EN>Get 12 Lv.30 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买12个30级箭塔</Desc_CN>
+		<Desc_JP>店の中では30級の矢の塔が12個買う</Desc_JP>
+		<Desc_Fr>Obtenez 12 LV.30 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 12 lv.30 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 12 Lv.30 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 12 edificios LV.30 en la tienda</Desc_SP>
+		<Desc_PT>Obter 12 LV.30 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 12 Lv.30 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 12 개의 Lv.30 건물을 확보하십시오.</Desc_KR>
+		<Desc_TW>商店裡購買12個30級箭塔</Desc_TW>
+	</Task1835>
+	<Task1836>
+		<ID>39</ID>
+		<TaskId>1836</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>18</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>27</AcceptLv>
+		<Cond>34|3</Cond>
+		<Award>2|10</Award>
+		<Desc_EN>Get 3 Lv.34 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买3个34级箭塔</Desc_CN>
+		<Desc_JP>店の中では34級の矢の塔が3個買う</Desc_JP>
+		<Desc_Fr>Obtenez 3 LV.34 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 3 lv.34 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 3 Lv.34 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 3 edificios LV.34 en la tienda</Desc_SP>
+		<Desc_PT>Obter 3 LV.34 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 3 здания уровня 34 в магазине</Desc_RU>
+		<Desc_KR>가게에 3 개의 Lv.34 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買3個34級箭塔</Desc_TW>
+	</Task1836>
+	<Task1837>
+		<ID>40</ID>
+		<TaskId>1837</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>18</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>27</AcceptLv>
+		<Cond>34|5</Cond>
+		<Award>2|20</Award>
+		<Desc_EN>Get 5 Lv.34 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买5个34级箭塔</Desc_CN>
+		<Desc_JP>店の中では34級の矢の塔が5個買う</Desc_JP>
+		<Desc_Fr>Obtenez 5 LV.34 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 5 lv.34 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 5 Lv.34 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 5 edificios LV.34 en la tienda</Desc_SP>
+		<Desc_PT>Obter 5 LV.34 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 5 Lv.34 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 5 Lv.34 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買5個34級箭塔</Desc_TW>
+	</Task1837>
+	<Task1838>
+		<ID>41</ID>
+		<TaskId>1838</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>18</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>27</AcceptLv>
+		<Cond>34|7</Cond>
+		<Award>2|30</Award>
+		<Desc_EN>Get 7 Lv.34 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买7个34级箭塔</Desc_CN>
+		<Desc_JP>店の中では34級の矢の塔が7個買う</Desc_JP>
+		<Desc_Fr>Obtenez 7 LV.34 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 7 lv.34 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 7 Lv.34 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 7 edificios LV.34 en la tienda</Desc_SP>
+		<Desc_PT>Obter 7 LV.34 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 7 Lv.34 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 7 개의 Lv.34 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買7個34級箭塔</Desc_TW>
+	</Task1838>
+	<Task1839>
+		<ID>42</ID>
+		<TaskId>1839</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>18</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>27</AcceptLv>
+		<Cond>34|9</Cond>
+		<Award>2|40</Award>
+		<Desc_EN>Get 9 Lv.34 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买9个34级箭塔</Desc_CN>
+		<Desc_JP>店の中では34級の矢の塔が9個買う</Desc_JP>
+		<Desc_Fr>Obtenez 9 LV.34 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 9 lv.34 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 9 Lv.34 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 9 edificios LV.34 en la tienda</Desc_SP>
+		<Desc_PT>Obter 9 LV.34 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 9 Lv.34 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 9 개의 Lv.34 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買9個34級箭塔</Desc_TW>
+	</Task1839>
+	<Task1840>
+		<ID>43</ID>
+		<TaskId>1840</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>18</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>27</AcceptLv>
+		<Cond>34|12</Cond>
+		<Award>2|50</Award>
+		<Desc_EN>Get 12 Lv.34 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买12个34级箭塔</Desc_CN>
+		<Desc_JP>店の中では34級の矢の塔が12個買う</Desc_JP>
+		<Desc_Fr>Obtenez 12 LV.34 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 12 lv.34 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 12 Lv.34 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 12 edificios LV.34 en la tienda</Desc_SP>
+		<Desc_PT>Obter 12 LV.34 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 12 ур.34 здания в магазине</Desc_RU>
+		<Desc_KR>가게에 12 개의 Lv.34 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買12個34級箭塔</Desc_TW>
+	</Task1840>
+	<Task1841>
+		<ID>44</ID>
+		<TaskId>1841</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>19</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>30</AcceptLv>
+		<Cond>38|3</Cond>
+		<Award>2|10</Award>
+		<Desc_EN>Get 3 Lv.38 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买3个38级箭塔</Desc_CN>
+		<Desc_JP>店の中では38級の矢の塔が3個買う</Desc_JP>
+		<Desc_Fr>Obtenez 3 LV.38 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 3 lv.38 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 3 Lv.38 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 3 edificios LV.38 en la tienda</Desc_SP>
+		<Desc_PT>Obter 3 LV.38 edifícios na loja</Desc_PT>
+		<Desc_RU>Получите 3 здания уровня 38 в магазине</Desc_RU>
+		<Desc_KR>가게에서 3 Lv.38 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買3個38級箭塔</Desc_TW>
+	</Task1841>
+	<Task1842>
+		<ID>45</ID>
+		<TaskId>1842</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>19</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>30</AcceptLv>
+		<Cond>38|5</Cond>
+		<Award>2|20</Award>
+		<Desc_EN>Get 5 Lv.38 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买5个38级箭塔</Desc_CN>
+		<Desc_JP>店の中では38級の矢の塔が5個買う</Desc_JP>
+		<Desc_Fr>Obtenez 5 LV.38 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 5 lv.38 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 5 Lv.38 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 5 edificios LV.38 en la tienda</Desc_SP>
+		<Desc_PT>Obter 5 LV.38 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 5 Lv.38 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 5 개의 Lv.38 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買5個38級箭塔</Desc_TW>
+	</Task1842>
+	<Task1843>
+		<ID>46</ID>
+		<TaskId>1843</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>19</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>30</AcceptLv>
+		<Cond>38|7</Cond>
+		<Award>2|30</Award>
+		<Desc_EN>Get 7 Lv.38 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买7个38级箭塔</Desc_CN>
+		<Desc_JP>店の中では38級の矢の塔が7個買う</Desc_JP>
+		<Desc_Fr>Obtenez 7 LV.38 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 7 lv.38 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 7 Lv.38 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 7 edificios LV.38 en la tienda</Desc_SP>
+		<Desc_PT>Obter 7 LV.38 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 7 Lv.38 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 7 개의 Lv.38 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買7個38級箭塔</Desc_TW>
+	</Task1843>
+	<Task1844>
+		<ID>47</ID>
+		<TaskId>1844</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>19</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>30</AcceptLv>
+		<Cond>38|9</Cond>
+		<Award>2|40</Award>
+		<Desc_EN>Get 9 Lv.38 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买9个38级箭塔</Desc_CN>
+		<Desc_JP>店の中では38級の矢の塔が9個買う</Desc_JP>
+		<Desc_Fr>Obtenez 9 LV.38 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 9 lv.38 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 9 Lv.38 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 9 edificios LV.38 en la tienda</Desc_SP>
+		<Desc_PT>Obter 9 LV.38 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 9 Lv.38 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에 9 개의 Lv.38 건물 구하기</Desc_KR>
+		<Desc_TW>商店裡購買9個38級箭塔</Desc_TW>
+	</Task1844>
+	<Task1845>
+		<ID>48</ID>
+		<TaskId>1845</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>19</TaskSubtype>
+		<TaskName>Building Tycoon</TaskName>
+		<AcceptLv>30</AcceptLv>
+		<Cond>38|12</Cond>
+		<Award>2|50</Award>
+		<Desc_EN>Get 12 Lv.38 towers in the Shop</Desc_EN>
+		<Desc_CN>商店里购买12个38级箭塔</Desc_CN>
+		<Desc_JP>店の中では38級の矢の塔が12個買う</Desc_JP>
+		<Desc_Fr>Obtenez 12 LV.38 bâtiments dans la boutique</Desc_Fr>
+		<Desc_IT>Prendi 12 lv.38 edifici nel negozio</Desc_IT>
+		<Desc_GR>Holen Sie sich 12 Lv.38 Gebäude im Shop</Desc_GR>
+		<Desc_SP>Consigue 12 edificios LV.38 en la tienda</Desc_SP>
+		<Desc_PT>Obter 12 LV.38 edifícios na loja</Desc_PT>
+		<Desc_RU>Получить 12 Lv.38 зданий в магазине</Desc_RU>
+		<Desc_KR>가게에서 12 Lv.38 건물 가져 오기</Desc_KR>
+		<Desc_TW>商店裡購買12個38級箭塔</Desc_TW>
+	</Task1845>
+	<Task1872>
+		<ID>75</ID>
+		<TaskId>1872</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>16</TaskSubtype>
+		<TaskName>King of Glory</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>0|5000</Cond>
+		<Award>3|1</Award>
+		<Desc_EN>Reach top 5000 in Tournament</Desc_EN>
+		<Desc_CN>排行榜前5000名</Desc_CN>
+		<Desc_JP>ランキング上位5,000位</Desc_JP>
+		<Desc_Fr>Atteindre le Top 5000 dans le tournoi</Desc_Fr>
+		<Desc_IT>Raggiungere Top 5000 in torneo</Desc_IT>
+		<Desc_GR>Erreichen Sie Top 5000 im Turnier</Desc_GR>
+		<Desc_SP>Alcanza el Top 5000 en torneos</Desc_SP>
+		<Desc_PT>Atinja o Top 5000 no torneio</Desc_PT>
+		<Desc_RU>Топ 5000 в рейтинге</Desc_RU>
+		<Desc_KR>순위에서 상위 5,000 위</Desc_KR>
+		<Desc_TW>排行榜前5000名s</Desc_TW>
+	</Task1872>
+	<Task1873>
+		<ID>76</ID>
+		<TaskId>1873</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>16</TaskSubtype>
+		<TaskName>King of Glory</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>0|1000</Cond>
+		<Award>3|2</Award>
+		<Desc_EN>Reach top 1000 in Tournament</Desc_EN>
+		<Desc_CN>排行榜前1000名</Desc_CN>
+		<Desc_JP>ランキング上位1,000位</Desc_JP>
+		<Desc_Fr>Atteindre le Top 1000 dans le tournoi</Desc_Fr>
+		<Desc_IT>Raggiungere Top 1000 in torneo</Desc_IT>
+		<Desc_GR>Erreichen Sie Top 1000 im Turnier</Desc_GR>
+		<Desc_SP>Alcanza el Top 1000 en torneos</Desc_SP>
+		<Desc_PT>Atinja o Top 1000 no torneio</Desc_PT>
+		<Desc_RU>Топ 1000 в рейтинге</Desc_RU>
+		<Desc_KR>순위에서 상위 1000 위권</Desc_KR>
+		<Desc_TW>排行榜前1000名</Desc_TW>
+	</Task1873>
+	<Task1874>
+		<ID>77</ID>
+		<TaskId>1874</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>16</TaskSubtype>
+		<TaskName>King of Glory</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>0|500</Cond>
+		<Award>3|3</Award>
+		<Desc_EN>Reach top 500 in Tournament</Desc_EN>
+		<Desc_CN>排行榜前500名</Desc_CN>
+		<Desc_JP>ランキング上位500位</Desc_JP>
+		<Desc_Fr>Atteindre le Top 500 dans le tournoi</Desc_Fr>
+		<Desc_IT>Raggiungere Top 500 in torneo</Desc_IT>
+		<Desc_GR>Erreichen Sie Top 500 im Turnier</Desc_GR>
+		<Desc_SP>Alcanza el Top 500 en torneos</Desc_SP>
+		<Desc_PT>Atinja o Top 500 no torneio</Desc_PT>
+		<Desc_RU>Топ 500 в рейтинге</Desc_RU>
+		<Desc_KR>순위에서 상위 500 위</Desc_KR>
+		<Desc_TW>排行榜前500名</Desc_TW>
+	</Task1874>
+	<Task1875>
+		<ID>78</ID>
+		<TaskId>1875</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>16</TaskSubtype>
+		<TaskName>King of Glory</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>0|100</Cond>
+		<Award>3|4</Award>
+		<Desc_EN>Reach top 100 in Tournament</Desc_EN>
+		<Desc_CN>排行榜前100名</Desc_CN>
+		<Desc_JP>ランキング上位100位</Desc_JP>
+		<Desc_Fr>Atteindre le Top 100 dans le tournoi</Desc_Fr>
+		<Desc_IT>Raggiungere Top 100 in torneo</Desc_IT>
+		<Desc_GR>Erreichen Sie Top 100 im Turnier</Desc_GR>
+		<Desc_SP>Alcanza el Top 100 en torneos</Desc_SP>
+		<Desc_PT>Atinja o Top 100 no torneio</Desc_PT>
+		<Desc_RU>Топ 100 в рейтинге</Desc_RU>
+		<Desc_KR>랭킹 상위 100 위</Desc_KR>
+		<Desc_TW>排行榜前100名</Desc_TW>
+	</Task1875>
+	<Task1876>
+		<ID>79</ID>
+		<TaskId>1876</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>16</TaskSubtype>
+		<TaskName>King of Glory</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>0|50</Cond>
+		<Award>3|5</Award>
+		<Desc_EN>Reach top 50 in Tournament</Desc_EN>
+		<Desc_CN>排行榜前50名</Desc_CN>
+		<Desc_JP>ランキング上位50位</Desc_JP>
+		<Desc_Fr>Atteindre le Top 50 dans le tournoi</Desc_Fr>
+		<Desc_IT>Raggiungere Top 50 in torneo</Desc_IT>
+		<Desc_GR>Erreichen Sie Top 50 im Turnier</Desc_GR>
+		<Desc_SP>Alcanza el Top 50 en torneos</Desc_SP>
+		<Desc_PT>Atinja o Top 50 no torneio</Desc_PT>
+		<Desc_RU>Топ 50 в рейтинге</Desc_RU>
+		<Desc_KR>순위에서 상위 50 위</Desc_KR>
+		<Desc_TW>排行榜前50名</Desc_TW>
+	</Task1876>
+	<Task1877>
+		<ID>80</ID>
+		<TaskId>1877</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>16</TaskSubtype>
+		<TaskName>King of Glory</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>0|10</Cond>
+		<Award>3|6</Award>
+		<Desc_EN>Reach top 10 in Tournament</Desc_EN>
+		<Desc_CN>排行榜前10名</Desc_CN>
+		<Desc_JP>ランキング上位10位</Desc_JP>
+		<Desc_Fr>Atteindre le Top 10 dans le tournoi</Desc_Fr>
+		<Desc_IT>Raggiungere Top 10 in torneo</Desc_IT>
+		<Desc_GR>Erreichen Sie Top 10 im Turnier</Desc_GR>
+		<Desc_SP>Alcanza el Top 10 en torneos</Desc_SP>
+		<Desc_PT>Atinja o Top 10 no torneio</Desc_PT>
+		<Desc_RU>Топ 10 в рейтинге</Desc_RU>
+		<Desc_KR>랭킹 상위 10 위</Desc_KR>
+		<Desc_TW>排行榜前10名</Desc_TW>
+	</Task1877>
+	<Task1878>
+		<ID>81</ID>
+		<TaskId>1878</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>16</TaskSubtype>
+		<TaskName>King of Glory</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>0|5</Cond>
+		<Award>3|7</Award>
+		<Desc_EN>Reach top 5 in Tournament</Desc_EN>
+		<Desc_CN>排行榜前5名</Desc_CN>
+		<Desc_JP>ランキング上位5位</Desc_JP>
+		<Desc_Fr>Atteindre le Top 5 dans le tournoi</Desc_Fr>
+		<Desc_IT>Raggiungere Top 5 in torneo</Desc_IT>
+		<Desc_GR>Erreichen Sie Top 5 im Turnier</Desc_GR>
+		<Desc_SP>Alcanza el Top 5 en torneos</Desc_SP>
+		<Desc_PT>Atinja o Top 5 no torneio</Desc_PT>
+		<Desc_RU>Топ 5 в рейтинге</Desc_RU>
+		<Desc_KR>순위에서 상위 5 위</Desc_KR>
+		<Desc_TW>排行榜前5名</Desc_TW>
+	</Task1878>
+	<Task1879>
+		<ID>82</ID>
+		<TaskId>1879</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>16</TaskSubtype>
+		<TaskName>King of Glory</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>0|3</Cond>
+		<Award>3|8</Award>
+		<Desc_EN>Reach top 3 in Tournament</Desc_EN>
+		<Desc_CN>排行榜前3名</Desc_CN>
+		<Desc_JP>ランキング上位3位</Desc_JP>
+		<Desc_Fr>Atteindre le Top 3 dans le tournoi</Desc_Fr>
+		<Desc_IT>Raggiungere Top 3 in torneo</Desc_IT>
+		<Desc_GR>Erreichen Sie Top 3 im Turnier</Desc_GR>
+		<Desc_SP>Alcanza el Top 3 en torneos</Desc_SP>
+		<Desc_PT>Atinja o Top 3 no torneio</Desc_PT>
+		<Desc_RU>Топ 3 в рейтинге</Desc_RU>
+		<Desc_KR>순위에서 상위 3 위</Desc_KR>
+		<Desc_TW>排行榜前3名</Desc_TW>
+	</Task1879>
+	<Task1880>
+		<ID>83</ID>
+		<TaskId>1880</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>16</TaskSubtype>
+		<TaskName>King of Glory</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>0|2</Cond>
+		<Award>3|9</Award>
+		<Desc_EN>Reach top 2 in Tournament</Desc_EN>
+		<Desc_CN>排行榜前2名</Desc_CN>
+		<Desc_JP>ランキング上位2位</Desc_JP>
+		<Desc_Fr>Atteindre le Top 2 dans le tournoi</Desc_Fr>
+		<Desc_IT>Raggiungere Top 2 in torneo</Desc_IT>
+		<Desc_GR>Erreichen Sie Top 2 im Turnier</Desc_GR>
+		<Desc_SP>Alcanza el Top 2 en torneos</Desc_SP>
+		<Desc_PT>Atinja o Top 2 no torneio</Desc_PT>
+		<Desc_RU>Топ 2 в рейтинге</Desc_RU>
+		<Desc_KR>순위에서 상위 2 위</Desc_KR>
+		<Desc_TW>排行榜前2名</Desc_TW>
+	</Task1880>
+	<Task1881>
+		<ID>84</ID>
+		<TaskId>1881</TaskId>
+		<TaskType>2</TaskType>
+		<TaskSubtype>16</TaskSubtype>
+		<TaskName>King of Glory</TaskName>
+		<AcceptLv>1</AcceptLv>
+		<Cond>0|1</Cond>
+		<Award>3|10</Award>
+		<Desc_EN>Reach top 1 in Tournament</Desc_EN>
+		<Desc_CN>排行榜第一名</Desc_CN>
+		<Desc_JP>ランキング上位1位</Desc_JP>
+		<Desc_Fr>Atteindre le Top 1 dans le tournoi</Desc_Fr>
+		<Desc_IT>Raggiungere Top 1 in torneo</Desc_IT>
+		<Desc_GR>Erreichen Sie Top 1 im Turnier</Desc_GR>
+		<Desc_SP>Alcanza el Top 1 en torneos</Desc_SP>
+		<Desc_PT>Atinja o Top 1 no torneio</Desc_PT>
+		<Desc_RU>Топ 1 в рейтинге</Desc_RU>
+		<Desc_KR>순위에서 상위 1 위</Desc_KR>
+		<Desc_TW>排行榜前1名</Desc_TW>
+	</Task1881>
+</TaskInfo>

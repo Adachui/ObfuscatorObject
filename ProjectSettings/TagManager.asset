@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Start
+  - Object
+  - Object
+  - Object
+  - Object
+  - Object
+  - Object
+  - Object
+  - Object
+  - Object
+  - Object
+  - Object
+  - Object
+  - Reward
+  - Build1
+  - Block
+  - ObjectManager
+  - BlockLock
+  - Trash
+  - Build
+  - Build2
+  - Build3
+  - Role2
+  - DefendBlock
+  - DefendPlane
+  - MonsterPlane
+  - Monster
+  - Attack
+  - DefendTower
+  - DefendTowerBlock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - UI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - jie0
+  - jie
+  - zao
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

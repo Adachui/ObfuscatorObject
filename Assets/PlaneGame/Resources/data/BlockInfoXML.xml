@@ -1,0 +1,30 @@
+<BlockInfo>
+  <Block0>
+    <BlockId>0</BlockId>
+    <BuildId>1001</BuildId>
+    <BuildLv>1</BuildLv>
+    <BuildState>0</BuildState>
+    <DefendBlockId>0</DefendBlockId>
+  </Block0>
+  <Block1>
+    <BlockId>1</BlockId>
+    <BuildId>0</BuildId>
+    <BuildLv>0</BuildLv>
+    <BuildState>0</BuildState>
+    <DefendBlockId>0</DefendBlockId>
+  </Block1>
+  <Block2>
+    <BlockId>2</BlockId>
+    <BuildId>0</BuildId>
+    <BuildLv>0</BuildLv>
+    <BuildState>0</BuildState>
+    <DefendBlockId>0</DefendBlockId>
+  </Block2>
+  <Block3>
+    <BlockId>3</BlockId>
+    <BuildId>0</BuildId>
+    <BuildLv>0</BuildLv>
+    <BuildState>0</BuildState>
+    <DefendBlockId>0</DefendBlockId>
+  </Block3>
+</BlockInfo>

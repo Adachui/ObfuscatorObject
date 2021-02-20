@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<GemInfo>
+	<Gem1>
+		<ID>1</ID>
+		<Price>0.99</Price>
+		<Diamond>30</Diamond>
+		<Bonus>0.0</Bonus>
+	</Gem1>
+	<Gem2>
+		<ID>2</ID>
+		<Price>4.99</Price>
+		<Diamond>180</Diamond>
+		<Bonus>0.2</Bonus>
+	</Gem2>
+	<Gem3>
+		<ID>3</ID>
+		<Price>9.99</Price>
+		<Diamond>420</Diamond>
+		<Bonus>0.4</Bonus>
+	</Gem3>
+	<Gem4>
+		<ID>4</ID>
+		<Price>19.99</Price>
+		<Diamond>960</Diamond>
+		<Bonus>0.6</Bonus>
+	</Gem4>
+	<Gem5>
+		<ID>5</ID>
+		<Price>49.99</Price>
+		<Diamond>2550</Diamond>
+		<Bonus>0.7</Bonus>
+	</Gem5>
+	<Gem6>
+		<ID>6</ID>
+		<Price>99.99</Price>
+		<Diamond>5700</Diamond>
+		<Bonus>0.9</Bonus>
+	</Gem6>
+</GemInfo>

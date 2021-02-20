@@ -1,0 +1,1756 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language> 
+<English>  
+	<Income>IncomeX{0}</Income>
+	<PerSecond>/sec</PerSecond>
+	<BuffSpeed>Attack Speed X{0}</BuffSpeed>
+	<Shop>Shop</Shop>
+	<SpeedUp>Attack SpeedX2</SpeedUp>
+	<EarnSpeed>Attack Speed</EarnSpeed>
+	<Earnings>Earnings</Earnings>
+	<Free>Free</Free>
+	<Runway>Fort</Runway>
+	<Discount>Discount</Discount>
+	<EarningsInc>Earnings increase {0}%</EarningsInc>
+	<BuildingOff>All Arrow Tower {0}% off</BuildingOff>
+	<Owned>Owned</Owned>
+	<GetCoinX2>GetX2</GetCoinX2>
+	<GetCoinX3>GetX3</GetCoinX3>
+	<OfflineEarn>Offline Earnings</OfflineEarn>
+	<AdditionOfflineEarn>Additional 20% offline benefits</AdditionOfflineEarn>
+	<Career>CAREER</Career>
+	<Stats>Stats</Stats>
+	<Glory>Glory</Glory>
+	<Settings>Settings</Settings>
+	<EarnPerSecond>Earn per sec</EarnPerSecond>
+	<Equipments>Equipments</Equipments>
+	<TotalEarnings>Total Earnings</TotalEarnings>
+	<CollectGlory>Collected:{0}/10</CollectGlory>
+	<Effect>Effect</Effect>
+	<Music>Music</Music>
+	<Building>Arrow Tower</Building>
+
+	<Membership>Tower Defense Elite</Membership>
+	<Restore>Restore</Restore>
+	<MoreBlocks>+2 Blocks</MoreBlocks>
+	<MoreSpeed>+50% Attack Speed</MoreSpeed>
+	<MoreTrack>+2 More Forts</MoreTrack>
+	<MoreOfflineEarning>+20% Offline Earnings</MoreOfflineEarning>
+
+	<MembershipSubcribe>Tower Defense Elite a weekly subscription, you will have a 3-days FREE trail period, after this period you will be charged $4.99. After buying this subscription, you will unlock following features: 15O% attack speed of all arrow towers;add 2 extra forts; add 2 extra Blocks; 120% offline earnings;remove pop-up ads; get 10 diamonds everyday. Subscription Notice:
+	. Payment will be charged to AppStore at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+	. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+	. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+	. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+	</MembershipSubcribe>
+	
+	<Privacy>Privacy Policy and Terms of Use</Privacy>
+
+	<RemoveAds>Remove ADS!</RemoveAds>
+	<Get>Get</Get>
+	<EverydayWard>10 Everyday！</EverydayWard>
+	<FreeBtnTitle>Start For Free</FreeBtnTitle>
+	<FreeTrail>3 days free trail, then $4.99 per week</FreeTrail>
+	<OwnedVip>You Owned Elite</OwnedVip>
+	<Quests>Quests</Quests>
+	<Boosts>Boosts</Boosts>
+	<Member>Elite</Member>
+	<TOURNAMENT>TOURNAMENT</TOURNAMENT>
+	<RankHint>Earn More To Get Higher Ranking!</RankHint>
+	<Other>Other</Other>
+
+	<Share>Share</Share>
+	<PlayFriend>Play Against Your Friends!</PlayFriend>
+	<You>You</You>
+	<SpinTitle>LUCK SPIN</SpinTitle>
+	<SpinTip>Next Free Spin {0:D2}:{1:D2}:{2:D2}</SpinTip>
+	<AddSpeedDes>Add Another 150 Seconds</AddSpeedDes>
+	<TapClose>TAP TO CLOSE</TapClose>
+	<ArchitecturePack>ARROW TOWER PACKAGE</ArchitecturePack>
+	<IncomePack>INCOME PACKAGE</IncomePack>
+	<ArchitecturePackDes>Get Arrow Tower X4</ArchitecturePackDes>
+	<IncomePackDes>Income Up X5</IncomePackDes>
+	<ExchangeTitle>CURRENCY EXCHANGE</ExchangeTitle>
+	<Min>Min</Min>
+	<Max>Max</Max>
+	<ExchangeBtn>Exchange</ExchangeBtn>
+	<DiamondShopTitle>DIAMONDS SHOP</DiamondShopTitle>
+	<OfferTimeEnd>Offers Ends In</OfferTimeEnd>
+	<Diamonds>Diamonds</Diamonds>
+	<TimeWerp>Time Warp</TimeWerp>
+	<UnlockBuilding>Unlock New Arrow Tower</UnlockBuilding>
+	<Confirm>CONFIRM</Confirm>
+	<WarningNoMoreBlock>No More Empty Blocks</WarningNoMoreBlock>
+	<NetWordBroken>Network connection failed</NetWordBroken>
+	<NoMoreCoin>There are not enough coins</NoMoreCoin>
+	<NoProfit>No profit!</NoProfit>
+	<LockWarning>Get lv.{0} Arrow Tower to unlock.</LockWarning>
+	<SpeedTimeLimit>Speed Up Time Limitation</SpeedTimeLimit>
+	<Congratulation>CONGRATULATION!</Congratulation>
+	<BecomeVip>Become A Tower Defense Elite!</BecomeVip>
+	<LevelUpGet>New</LevelUpGet>
+	<NewBlock>New Block</NewBlock>
+	<NewPath>New Fort</NewPath>
+	<Guide1>Welcome to the Fort Clash! Lets start a new journey to discover the towers.</Guide1>
+	<Guide2>First you need tap to buy a new arrow tower.</Guide2>
+	<Guide3>Great!  let's drag and merge the arrow tower to level up.</Guide3>
+	<Guide4>Amazing!You learn very quickly.</Guide4>
+	<Guide5>Now,drag the arrow to the fort to earn coins.</Guide5>
+	<Guide6>Awesome! The higher level arrow tower earn more coins and more quickly! Now enjoy your trip in Cool Tower Defense!</Guide6>
+	<TapContinue>Tap to continue</TapContinue>
+
+    <Building1>Normal Arrow</Building1>
+    <Building2>Intermediate Arrow</Building2>
+    <Building3>Advanced Arrow</Building3>
+    <Building4>Normal Acid Tower</Building4>
+    <Building5>Intermediate Acid Tower</Building5>
+    <Building6>Advanced Acid Tower</Building6>
+    <Building7>Normal Cannon</Building7>
+    <Building8>Intermediate Cannon</Building8>
+    <Building9>Advanced Cannon</Building9>
+    <Building10>Normal Artillery</Building10>
+    <Building11>Intermediate Artillery</Building11>
+    <Building12>Advanced Artillery</Building12>
+    <Building13>Normal Gatling</Building13>
+    <Building14>Intermediate Gatling</Building14>
+    <Building15>Advanced Gatling</Building15>
+    <Building16>Normal Crystal Cannon</Building16>
+    <Building17>Intermediate Crystal Cannon</Building17>
+    <Building18>Advanced Crystal Cannon</Building18>
+    <Building19>Normal Gaussian Cannon</Building19>
+    <Building20>Intermediate Gaussian Cannon</Building20>
+    <Building21>Advanced Gaussian Cannon</Building21>
+    <Building22>Normal Hammer Tower</Building22>
+    <Building23>Intermediate Hammer Tower</Building23>
+    <Building24>Advanced Hammer Tower</Building24>
+    <Building25>Normal Laser Cannon</Building25>
+    <Building26>Intermediate Laser Cannon</Building26>
+    <Building27>Advanced Laser Cannon</Building27>
+    <Building28>Normal Plasma Cannon</Building28>
+    <Building29>Intermediate Plasma Cannon</Building29>
+    <Building30>Advanced Plasma Cannon</Building30>
+    <Building31>Normal Radar Gun</Building31>
+    <Building32>Intermediate Radar Gun</Building32>
+    <Building33>Advanced Radar Gun</Building33>
+    <Building34>Multi Rocket Launcher</Building34>
+    <Building35>Normal Rocket Launcher</Building35>
+    <Building36>Intermediate Rocket Launcher</Building36>
+    <Building37>Advanced Rocket</Building37>
+    <Building38>Normal Electromagnetic Gun </Building38>
+    <Building39>Intermediate Electromagnetic Gun</Building39>
+    <Building40>Advanced Electromagnetic Gun</Building40>
+    	
+	<FourHoursProfit>Get 4 hours worth of profit!</FourHoursProfit>
+	<OneDayProfit>Get 1 day worth of profit!</OneDayProfit>
+	<FourGiftBox>Get 4 gift box!</FourGiftBox>
+	<SpeedUpX2>Speed Up X2</SpeedUpX2>
+	<GetDiamond20>Get Diamonds X20</GetDiamond20>
+	<UnlockQuest>Quests has been unlocked!</UnlockQuest>
+	<UnlockBoosts>Boosts Shop has been unlocked！</UnlockBoosts>
+	<BoostShopTip>Get {0} worth of profit immediately!</BoostShopTip>
+	<DailyQuest>DAILY QUESTS</DailyQuest>
+	<ACHIEVEMENTS>ACHIEVEMENTS</ACHIEVEMENTS>
+	<Spin>SPIN</Spin>
+	<BoostShop>BOOSTS SHOP</BoostShop>
+	<Manyhours> hours</Manyhours>
+	<Onehour> hour</Onehour>
+	<Manydays> days</Manydays>
+	<Oneday> day</Oneday>
+	<OnSaleDes>Congratulation! On sale gift has been unlocked!</OnSaleDes>
+	<RateGetDiamond20>Rate now to get 20 diamonds!</RateGetDiamond20>
+	<Recycle>Drag unwanted arrow towers to the recycle bin for recycling</Recycle>
+	<Recycle1>Recycle</Recycle1>
+</English>  
+<Chinese>  
+	<Income>收益X{0}</Income>
+	<PerSecond>/秒</PerSecond>
+	<BuffSpeed>攻击速度 X{0}</BuffSpeed>
+	<Shop>商店</Shop>
+	<SpeedUp>攻击速度X2</SpeedUp>
+	<EarnSpeed>攻击速度</EarnSpeed>
+	<Earnings>收入</Earnings>
+	<Free>免费</Free>
+	<Runway>炮台</Runway>
+	<Discount>折扣</Discount>
+	<EarningsInc>收入增加 {0}%</EarningsInc>
+	<BuildingOff>所有箭塔降价 {0}%</BuildingOff>
+	<Owned>拥有</Owned>
+	<GetCoinX2>获得X2</GetCoinX2>
+	<GetCoinX3>获得X3</GetCoinX3>
+	<OfflineEarn>离线收益</OfflineEarn>
+	<AdditionOfflineEarn>额外增加20%离线收益</AdditionOfflineEarn>
+	<Career>玩家信息</Career>
+	<Stats>概览</Stats>
+	<Glory>成就</Glory>
+	<Settings>设置</Settings>
+	<EarnPerSecond>每秒收益</EarnPerSecond>
+	<Equipments>装备</Equipments>
+	<TotalEarnings>总共收益</TotalEarnings>
+	<CollectGlory>达成:{0}/10</CollectGlory>
+	<Effect>特效</Effect>
+	<Music>音乐</Music>
+	<Building>箭塔</Building>
+
+	<Membership>塔防精英</Membership>
+	<Restore>恢复</Restore>
+	<MoreBlocks>+2 格子</MoreBlocks>
+	<MoreSpeed>+50% 攻击速度</MoreSpeed>
+	<MoreTrack>+2 炮台</MoreTrack>
+	<MoreOfflineEarning>+20% 离线收益</MoreOfflineEarning>
+
+	<MembershipSubcribe>塔防精英 塔防精英提供周订阅服务,您可以享受3天的免费试用期, 试用期结束之后将会被收取每周35元的费用. 购买塔防精英之后，您将拥有以下特权: 15O%攻击速度;增加两个额外的炮台; 增加两个额外的空地; 120%离线收益;免弹窗广告; 每天获得十钻. 订阅须知:
+	. 确认订阅之后将由苹果商店收取费用. 除非在会员到期前24小时取消自动续费功能，否则系统将自动扣费。
+	. 在到期前24小时内将确定续费金额并进行自动扣费。
+	. 用户可通过账号管理随时取消自动续费
+	. 免费试用期未被使用的部分, 如若被提供, 当用户订阅了该服务时将被作废。
+	</MembershipSubcribe>
+	
+	<Privacy>隐私政策和使用条款</Privacy>
+
+	<RemoveAds>去除广告!</RemoveAds>
+	<Get>获得</Get>
+	<EverydayWard>10 每一天！</EverydayWard>
+	<FreeBtnTitle>开始试用</FreeBtnTitle>
+	<FreeTrail>3天免费试用，试用期后每周仅需￥35</FreeTrail>
+	<OwnedVip>您是塔防精英</OwnedVip>
+	<Quests>任务</Quests>
+	<Boosts>加速</Boosts>
+	<Member>精英</Member>
+	<TOURNAMENT>排行榜</TOURNAMENT>
+	<RankHint>赚取更多的钱，获得更好的排名!</RankHint>
+	<Other>其他</Other>
+
+	<Share>分享</Share>
+	<PlayFriend>和朋友一起玩!</PlayFriend>
+	<You>您</You>
+	<SpinTitle>幸运转盘</SpinTitle>
+	<SpinTip>下次转盘时间 {0:D2}:{1:D2}:{2:D2}</SpinTip>
+	<AddSpeedDes>额外增加150秒</AddSpeedDes>
+	<TapClose>点击关闭</TapClose>
+	<ArchitecturePack>箭塔礼包</ArchitecturePack>
+	<IncomePack>收益礼包</IncomePack>
+	<ArchitecturePackDes>获得箭塔 X4</ArchitecturePackDes>
+	<IncomePackDes>收益增加 X5</IncomePackDes>
+	<ExchangeTitle>货币兑换</ExchangeTitle>
+	<Min>最小</Min>
+	<Max>最大</Max>
+	<ExchangeBtn>兑换</ExchangeBtn>
+	<DiamondShopTitle>钻石商店</DiamondShopTitle>
+	<OfferTimeEnd>剩余时间</OfferTimeEnd>
+	<Diamonds>钻石</Diamonds>
+	<TimeWerp>加速道具</TimeWerp>
+	<UnlockBuilding>解锁新箭塔</UnlockBuilding>
+	<Confirm>确认</Confirm>
+	<WarningNoMoreBlock>没有额外的空格子</WarningNoMoreBlock>
+	<NetWordBroken>网络链接失败</NetWordBroken>
+	<NoMoreCoin>金币不足</NoMoreCoin>
+	<NoProfit>没有利润!</NoProfit>
+	<LockWarning>解锁lv.{0}箭塔.</LockWarning>
+	<SpeedTimeLimit>加速时间限制</SpeedTimeLimit>
+	<Congratulation>恭喜您!</Congratulation>
+	<BecomeVip>成为塔防精英!</BecomeVip>
+	<LevelUpGet>解锁</LevelUpGet>
+	<NewBlock>新格子</NewBlock>
+	<NewPath>新炮台</NewPath>
+	<Guide1>欢迎来到酷酷塔防！让我们开启探索酷酷塔防的旅程吧</Guide1>
+	<Guide2>首先你需要点击去购买一座新的箭塔</Guide2>
+	<Guide3>太棒了！让我们点击合并去升级这些箭塔吧！</Guide3>
+	<Guide4>不可思议呀！您学习的很快呢！</Guide4>
+	<Guide5>现在，请将箭塔拖到炮台上去赚取金币吧！</Guide5>
+	<Guide6>厉害了！箭塔等级越高，赚取金币的速度将越快，数量越多! 现在来开启你在酷酷塔防的旅程吧!</Guide6>
+	<TapContinue>点击继续</TapContinue>
+
+    <Building1>普通箭弩</Building1>
+	<Building2>中级箭弩</Building2>
+	<Building3>高级箭弩</Building3>
+	<Building4>普通硫酸塔</Building4>
+	<Building5>中级硫酸塔</Building5>
+	<Building6>高级硫酸塔</Building6>
+	<Building7>普通大炮</Building7>
+	<Building8>中级大炮</Building8>
+	<Building9>高级大炮</Building9>
+	<Building10>普通火炮</Building10>
+	<Building11>中级火炮</Building11>
+	<Building12>高级火炮</Building12>
+	<Building13>普通加特林</Building13>
+	<Building14>中级加特林</Building14>
+	<Building15>高级加特林</Building15>
+	<Building16>普通水晶炮</Building16>
+	<Building17>中级水晶炮</Building17>
+	<Building18>高级水晶炮</Building18>
+	<Building19>普通高斯炮</Building19>
+	<Building20>中级高斯炮</Building20>
+	<Building21>高级高斯炮</Building21>
+	<Building22>普通锤子塔</Building22>
+	<Building23>中级锤子塔</Building23>
+	<Building24>高级锤子塔</Building24>
+	<Building25>普通激光炮</Building25>
+	<Building26>中级激光炮</Building26>
+	<Building27>高级激光炮</Building27>
+	<Building28>普通等离子炮</Building28>
+	<Building29>中级等离子炮</Building29>
+	<Building30>高级等离子炮</Building30>
+	<Building31>普通雷达炮</Building31>
+	<Building32>中级雷达炮</Building32>
+	<Building33>高级雷达炮</Building33>
+	<Building34>多重火箭炮</Building34>
+	<Building35>普通火箭炮</Building35>
+	<Building36>中级火箭炮</Building36>
+	<Building37>高级火箭炮</Building37>
+	<Building38>普通电磁炮 </Building38>
+	<Building39>中级电磁炮</Building39>
+	<Building40>高级电磁炮</Building40>
+	<FourHoursProfit>立即获得4小时的收益!</FourHoursProfit>
+	<OneDayProfit>立即获得一天收益!</OneDayProfit>
+	<FourGiftBox>获得4个礼包!</FourGiftBox>
+	<SpeedUpX2>加速X2</SpeedUpX2>
+	<GetDiamond20>获得钻石 X20</GetDiamond20>
+	<UnlockQuest>任务解锁成功!</UnlockQuest>
+	<UnlockBoosts>加速商店解锁成功！</UnlockBoosts>
+	<BoostShopTip>立即获得 {0} 收益!</BoostShopTip>
+	<DailyQuest>每日任务</DailyQuest>
+	<ACHIEVEMENTS>成就</ACHIEVEMENTS>
+	<Spin>礼包</Spin>
+	<BoostShop>加速商店</BoostShop>
+	<Manyhours>小时</Manyhours>
+	<Onehour>小时</Onehour>
+	<Manydays>天</Manydays>
+	<Oneday>天</Oneday>
+	<OnSaleDes>恭喜您！获得限时折扣礼包，限时折扣有效期24小时，时不再来!</OnSaleDes>
+	<RateGetDiamond20>现在去评星，可以获得20个钻石奖励</RateGetDiamond20>
+	<Recycle>将不要的箭塔拖到回收站进行回收</Recycle>
+	<Recycle1>回收站</Recycle1>
+</Chinese> 
+<Japanese>  
+	<Income>収入X{0}</Income>
+	<PerSecond>/秒</PerSecond>
+	<BuffSpeed>攻撃速度X {0} </BuffSpeed>
+	<Shop>ストア</Shop>
+	<SpeedUp>攻撃速度X2 </SpeedUp>
+	<EarnSpeed>攻撃速度</EarnSpeed>
+	<Earnings>収入</Earnings>
+	<Free>無料</Free>
+	<Runway>砦</Runway>
+	<Discount>割引</Discount>
+	<EarningsInc>収入の増加 {0}%</EarningsInc>
+	<BuildingOff>オールアロータワーズ値下げ価格{0}％</BuildingOff>
+	<Owned>自分</Owned>
+	<GetCoinX2>取得するX2</GetCoinX2>
+	<GetCoinX3>取得するX3</GetCoinX3>
+	<OfflineEarn>オフライン収益</OfflineEarn>
+	<AdditionOfflineEarn>追加の20％のオフライン収益</AdditionOfflineEarn>
+	<Career>選手情報</Career>
+	<Stats>概要</Stats>
+	<Glory>アチーブメント</Glory>
+	<Settings>設定</Settings>
+	<EarnPerSecond>毎秒の収益</EarnPerSecond>
+	<Equipments>設備</Equipments>
+	<TotalEarnings>総収入</TotalEarnings>
+	<CollectGlory>リーチ:{0}/10</CollectGlory>
+	<Effect>特殊効果</Effect>
+	<Music>音楽</Music>
+	<Building>アロータワー</Building>
+
+	<Membership>ゴールドVIP会員</Membership>
+	<Restore>回復</Restore>
+	<MoreBlocks>+2 格子</MoreBlocks>
+	<MoreSpeed>+攻撃速度50％</MoreSpeed>
+	<MoreTrack>+2 砦</MoreTrack>
+	<MoreOfflineEarning>+20% オフライン収益</MoreOfflineEarning>
+
+	<MembershipSubcribe>ゴールドVIP会員ゴールドVIP会員は毎週のサブスクリプションサービスを提供しており、3日間の無料トライアル期間があり、トライアル期間終了後は週4.99ドルの料金が課金されます。 さらに2つの砲塔を追加し、さらに2つのオープンスペースを追加し、120％のオフライン収入、無料のポップアップウィンドウ広告、1日に10回のドリルを取得。 定期購読通知：
+	. 支払いの確認はAppStoreに請求されます。 現在の期間が終了する前に少なくとも24時間、自動更新がオフになっていない限り、登録は自動的に更新されます
+	. アカウントには、現在の期間が終了する前の24時間以内に更新が請求され、更新の費用が識別されます
+	. 購読はユーザーによって管理され、購入後にユーザーのアカウント設定に移動すると自動更新がオフになることがあります
+	. 無料試用期間の未使用部分は、提供されている場合は、ユーザーが該当する場合はその書籍の購読を購入すると失効します
+	</MembershipSubcribe>
+	
+	<Privacy>プライバシーポリシーと利用規約</Privacy>
+
+	<RemoveAds>広告を削除する!</RemoveAds>
+	<Get>取得する</Get>
+	<EverydayWard>10 毎日！</EverydayWard>
+	<FreeBtnTitle>無料トライアル</FreeBtnTitle>
+	<FreeTrail>3日間無料トライアル、トライアル期間後は週に$ 4.99のみ</FreeTrail>
+	<OwnedVip>あなたはVIP会員です</OwnedVip>
+	<Quests>タスク</Quests>
+	<Boosts>加速</Boosts>
+	<Member>会員</Member>
+	<TOURNAMENT>リーダーボード</TOURNAMENT>
+	<RankHint>より多くのお金を稼ぎ、より良いランキングを得る！</RankHint>
+	<Other>その他</Other>
+
+	<Share>シェア</Share>
+	<PlayFriend>友達と遊ぶ！</PlayFriend>
+	<You>あなた</You>
+	<SpinTitle>ラッキーなターンテーブル</SpinTitle>
+	<SpinTip>次のターンテーブル時間 {0:D2}:{1:D2}:{2:D2}</SpinTip>
+	<AddSpeedDes>さらに150秒</AddSpeedDes>
+	<TapClose>閉じる</TapClose>
+	<ArchitecturePack>アロータワーパッケージ</ArchitecturePack>
+	<IncomePack>収入パッケージ</IncomePack>
+	<ArchitecturePackDes>矢の塔をゲット X4</ArchitecturePackDes>
+	<IncomePackDes>収入の増加 X5</IncomePackDes>
+	<ExchangeTitle>外貨両替</ExchangeTitle>
+	<Min>最小</Min>
+	<Max>最大</Max>
+	<ExchangeBtn>償還</ExchangeBtn>
+	<DiamondShopTitle>ダイヤモンドストア</DiamondShopTitle>
+	<OfferTimeEnd>残り時間</OfferTimeEnd>
+	<Diamonds>ダイヤモンド</Diamonds>
+	<TimeWerp>加速小道具</TimeWerp>
+	<UnlockBuilding>新しい矢の塔の鍵を開けなさい</UnlockBuilding>
+	<Confirm>確認</Confirm>
+	<WarningNoMoreBlock>余分なスペースはありません</WarningNoMoreBlock>
+	<NetWordBroken>ネットワークリンクに失敗しました</NetWordBroken>
+	<NoMoreCoin>金貨の不足</NoMoreCoin>
+	<NoProfit>利益はありません！</NoProfit>
+	<LockWarning>レベル{0}のロック解除</LockWarning>
+	<SpeedTimeLimit>加速期限</SpeedTimeLimit>
+	<Congratulation>おめでとう！</Congratulation>
+	<BecomeVip>VIPメンバーになる！</BecomeVip>
+	<LevelUpGet>ロックを解除する</LevelUpGet>
+	<NewBlock>新しいグリッド</NewBlock>
+	<NewPath>新砦</NewPath>
+	<Guide1>クールなタワーディフェンスへようこそ！ クールなタワーディフェンスを探索する旅を始めましょう.</Guide1>
+	<Guide2>最初にあなたは新しい矢の塔を買うためにクリックする必要があります.</Guide2>
+	<Guide3>すごい！ マージをクリックしてこれらのタワーをアップグレードしましょう.</Guide3>
+	<Guide4>信じられない！ あなたはとても早く学んでいます！</Guide4>
+	<Guide5>さて、金貨を稼ぐために塔を砲塔までドラッグしましょう！</Guide5>
+	<Guide6>すごい！ アロータワーのレベルが高いほど、より早くコインが獲得され、より多くの数が獲得されます！さて、クールなタワーディフェンスで旅を始めましょう！</Guide6>
+	<TapContinue>クリックして続行する</TapContinue>
+
+	<Building1>通常の矢印</Building1>
+    <Building2>中矢印</Building2>
+    <Building3>高度な矢印</Building3>
+    <Building4>普通の硫酸タワー</Building4>
+    <Building5>中間硫酸タワー</Building5>
+    <Building6>先進硫酸塔</Building6>
+    <Building7>普通の大砲</Building7>
+    <Building8>中級大砲</Building8>
+    <Building9>高度な大砲</Building9>
+    <Building10>通常の砲兵</Building10>
+    <Building11>中砲兵</Building11>
+    <Building12>上級砲兵</Building12>
+    <Building13>普通のガトリング</Building13>
+    <Building14>中級ガトリン</Building14>
+    <Building15>高度なガトリン</Building15>
+    <Building16>普通のクリスタルキャノン</Building16>
+    <Building17>クリスタルの大砲</Building17>
+    <Building18>アドバンストクリスタルキャノン</Building18>
+    <Building19>通常のガウスキャノン</Building19>
+    <Building20>中間ガウスキャノン</Building20>
+    <Building21>高度ガウスキャノン</Building21>
+    <Building22>普通のハンマータワー</Building22>
+    <Building23>中級ハンマータワー</Building23>
+    <Building24>アドバンストハンマータワー</Building24>
+    <Building25>通常のレーザーキャノン</Building25>
+    <Building26>中間レーザー大砲</Building26>
+    <Building27>アドバンストレーザーキャノン</Building27>
+    <Building28>通常のプラズマキャノン</Building28>
+    <Building29>中間プラズマキャノン</Building29>
+    <Building30>アドバンストプラズマキャノン</Building30>
+    <Building31>通常のレーダーキャノン</Building31>
+    <Building32>中間レーダーキャノン</Building32>
+    <Building33>高度レーダーガン</Building33>
+    <Building34>マルチロケットランチャー</Building34>
+    <Building35>通常のロケットランチャー</Building35>
+    <Building36>中級ロケットランチャー</Building36>
+    <Building37>先進ロケット</Building37>
+    <Building38>通常の電磁石</Building38>
+    <Building39>中間電磁銃</Building39>
+    <Building40>高度電磁キャノン</Building40>
+    <FourHoursProfit>すぐすぐ搜得4小时的收益</FourHoursProfit>
+	<OneDayProfit>即時搜得一天收益！</OneDayProfit>
+	<FourGiftBox>結集4个展！</FourGiftBox>
+	<SpeedUpX2>加速X2</SpeedUpX2>
+	<GetDiamond20>ダイヤモンドを入手する X20</GetDiamond20>
+	<UnlockQuest>タスクが正常にロック解除されました！</UnlockQuest>
+	<UnlockBoosts>店舗の開錠成功を加速する！</UnlockBoosts>
+	<BoostShopTip>今日{0}の収益を得る！</BoostShopTip>
+	<DailyQuest>毎日の仕事</DailyQuest>
+	<ACHIEVEMENTS>アチーブメント</ACHIEVEMENTS>
+	<Spin>ギフトパッケージ</Spin>
+	<BoostShop>加速した店舗</BoostShop>
+	<Manyhours>時間</Manyhours>
+	<Onehour>時間</Onehour>
+	<Manydays>日</Manydays>
+	<Oneday>日</Oneday>
+	<OnSaleDes>おめでとう！ 限られた時間割引パッケージを取得し、制限時間割引は24時間有効です、有効期限が切れています！</OnSaleDes>
+	<RateGetDiamond20>今すぐ評価して20個のダイヤモンドを手に入れよう</RateGetDiamond20>
+	<Recycle>不要なタワーをリサイクル用のごみ箱にドラッグします</Recycle>
+	<Recycle1>ごみ箱</Recycle1>
+</Japanese> 
+<German>
+	<Income>Einnahmen X {0}</Income>
+	<PerSecond>Sekunde</PerSecond>
+	<BuffSpeed>Geschwindigkeit X {0}</BuffSpeed>
+	<Shop>Shop</Shop>
+	<SpeedUp>Geschwindigkeit X2</SpeedUp>
+	<EarnSpeed>Geschwindigkeit</EarnSpeed>
+	<Einnahmen>Einnahmen</Einnahmen>
+	<Free>Free</Free>
+	<Runway>Sitze</Runway>
+	<Rabatt>Rabatt</Rabatt>
+	<EarningsInc>Steigerte den Umsatz {0}%</EarningsInc>
+	<BuildingOff>Alle Gebäude werden um {0}%</BuildingOff>
+	<Besitz>Eigen</Besitz>
+	<GetCoinX2>Holen Sie sich X2</GetCoinX2>
+	<GetCoinX3>Holen Sie sich X3</GetCoinX3>
+	<OfflineEarn>Offline-Einnahmen </OfflineEarn>
+	<AdditionOfflineEarn>fügt 20% Offline-Gewinn hinzu</AdditionOfflineEarn>
+	<Career>Spielerinformationen</Career>
+	<Stats>Übersicht</Stats>
+	<Glory>Erfolge</Glory>
+	<Settings>Einstellungen</Settings>
+	<EarnPerSecond>Ergebnis pro Sekunde</EarnPerSecond>
+	<Equipments>Ausrüstung</Equipments>
+	<TotalEarnings> Gesamtumsatz </TotalEarnings>
+	<CollectGlory>Erreiche: {0} / 10</CollectGlory>
+	<Effect>Spezialeffekte</Effect>
+	<Music>Music</Music>
+	<Building>Gebäude</Building>
+	<Membership>Gold VIP-Mitglied</Membership>
+	<Restore>Restore</Restore>
+	<MoreBlocks>+2-Raster</MoreBlocks>
+	<MoreSpeed>+ 50% Geschwindigkeit</MoreSpeed>
+	<MoreTrack>+2 Sitze</MoreTrack>
+	<MoreOfflineEarning>+ 20% Offline-Einnahmen</MoreOfflineEarning>
+
+	<MembershipSubcribe>Gold VIP-Mitglieder Gold-VIP-Mitglieder bieten einen wöchentlichen Abonnement-Service an. Sie können eine 3-tägige kostenlose Testphase in Anspruch nehmen, nach Ablauf der Probezeit wird eine Gebühr von 4,99 US-Dollar pro Woche erhoben % Laufgeschwindigkeit, fügen Sie zwei zusätzliche Landebahnen hinzu, fügen Sie zwei zusätzliche Freiflächen hinzu, 120% Offline-Umsatz, kostenlose Popup-Fensteranzeigen, zehn Diamanten pro Tag. Abonnement-Hinweise:
+	Der Apple Store wird nach der Bestätigung des Abonnements belastet. Das System berechnet die Gebühr automatisch, es sei denn, die Funktion zur automatischen Verlängerung wird 24 Stunden vor Ablauf des Mitglieds gekündigt.
+	Die Verlängerungsgebühr wird innerhalb von 24 Stunden vor Ablauf automatisch festgelegt und automatisch abgezogen.
+	Benutzer können die automatische Verlängerung jederzeit über die Kontenverwaltung abbrechen.
+	Der Teil des kostenlosen Testzeitraums, der nicht verwendet wird, wenn er zur Verfügung gestellt wird, wird ungültig, wenn der Benutzer den Dienst abonniert.
+	</MembershipSubcribe>
+
+	<Privacy>Privacy Policy und Nutzungsbedingungen</Privacy>
+
+	<RemoveAds>Anzeigen entfernen!</RemoveAds>
+	<Get> Get </Get>
+	<EverydayWard>10 Jeden Tag!</EverydayWard>
+	<FreeBtnTitle>Kostenlose Testversion</FreeBtnTitle>
+	<FreeTrail>Kostenlose Testversion für 3 Tage, nur 4,99 $ pro Woche nach der Testphase</FreeTrail>
+	<OwnedVip>Sie sind ein VIP-Mitglied</OwnedVip>
+	<Quests>Aufgaben</Quests>
+	<Boosts>Beschleunigung</Boosts>
+	<Member>Mitglieder</Member>
+	<TOURNAMENT>Bestenliste</TOURNAMENT>
+	<RankHint>Verdienen Sie mehr Geld und erhalten Sie ein besseres Ranking!</RankHint>
+	<Other>Other</Other>
+
+	<Share>Share</Share>
+	<PlayFriend>Spiele mit Freunden!</PlayFriend>
+	<You>Sie</You>
+	<SpinTitle>Glückskarussell</SpinTitle>
+	<SpinTip>Nächste Plattenzeit {0:D2}:{1:D2}:{2:D2}</SpinTip>
+	<AddSpeedDes>fügt zusätzliche 150 Sekunden hinzu</AddSpeedDes>
+	<TapClose>Klicken Sie zum Schließen auf</TapClose>
+	<ArchitecturePack>Architekturpaket</ArchitecturePack>
+	<IncomePack>Leistungspaket</IncomePack>
+	<ArchitecturePackDes>Holen Sie sich Building X4</ArchitecturePackDes>
+	<IncomePackDes>steigerte den Umsatz um X5</IncomePackDes>
+	<ExchangeTitle>Währungsumtausch</ExchangeTitle>
+	<Min>Minimum</Min>
+	<Max>Max</Max>
+	<ExchangeBtn>Exchange</ExchangeBtn>
+	<DiamondShopTitle>Diamond Store</DiamondShopTitle>
+	<OfferTimeEnd>Verbleibende Zeit</OfferTimeEnd>
+	<Diamonds>Diamonds</Diamonds>
+	<TimeWerp>Beschleuniger</TimeWerp>
+	<UnlockBuilding>Entsperren Sie das neue Gebäude</UnlockBuilding>
+	<Confirm>Confirm</Confirm>
+	<WarningNoMoreBlock>hat keine zusätzlichen Leerzeichen</WarningNoMoreBlock>
+	<NetWordBroken>Netzwerkverbindung fehlgeschlagen</NetWordBroken>
+	<NoMoreCoin>Unzureichende Goldmünzen</NoMoreCoin>
+	<NoProfit>kein Gewinn!</NoProfit>
+	<LockWarning>Entsperren Sie Lv. {0} Building.</LockWarning>
+	<SpeedTimeLimit>Beschleunigungszeitlimit</SpeedTimeLimit>
+	<Congratulation>Glückwunsch!</Congratulation>
+	<BecomeVip>Werden Sie VIP-Mitglied!</BecomeVip>
+	<LevelUpGet>Entsperren</LevelUpGet>
+	<NewBlock>New Grid</NewBlock>
+	<NewPath>Neuer Sitz</NewPath>
+	<Guide1>Willkommen in der Fantasiestadt! Beginnen wir mit der Erkundung der Stadt.</Guide1>
+	<Guide2>Zuerst müssen Sie klicken, um ein neues Gebäude zu kaufen.</Guide2>
+	<Guide3>ist großartig! Klicken Sie auf die Fusion, um diese Gebäude zu verbessern!</Guide3>
+	<Guide4>Unglaublich! Sie lernen sehr schnell!</Guide4>
+	<Guide5>Ziehen Sie jetzt das Gebäude auf Ihren Platz, um Goldmünzen zu erhalten!</Guide5>
+	<Guide6>ist unglaublich! Je höher das Gebäude, desto schneller werden die Münzen verdient und desto höher die Anzahl! Jetzt starten wir Ihre Reise in der Stadt!</Guide6>
+	<TapContinue>Klicken Sie hier, um fortzufahren</TapContinue>
+
+	<Building1>Blaue Kabine</Building1>
+	<Building2>Pink Cabin</Building2>
+	<Building3>Purple Cabin</Building3>
+	<Building4>Gelbe Kabine</Building4>
+	<Building5>Vollfarbkabine</Building5>
+	<Building6>Rose Cottage</Building6>
+	<Building7>Romantische Hütte</Building7>
+	<Building8>Komfortable Kabine</Building8>
+	<Building9>Winterhäuschen</Building9>
+	<Building10>Spring Cottage</Building10>
+	<Building11>Sommerhütte</Building11>
+	<Building12>Herbstkabine</Building12>
+	<Building13>Geschenkpackung</Building13>
+	<Building14>Süßigkeitengeschäft</Building14>
+	<Building15>Café</Building15>
+	<Building16>Dessertgeschäft</Building16>
+	<Building17>Bekleidungsgeschäft</Building17>
+	<Building18>Obstladen</Building18>
+	<Building19>Blumenladen</Building19>
+	<Building20>Supermarkt</Building20>
+	<Building21>Eiswagen</Building21>
+	<Building22>Selbstbedienungsverkaufsschrank</Building22>
+	<Building23>Magic Store</Building23>
+	<Building24>Bank k</Building24>
+	<Building25>Lebensmittelgeschäft</Building25>
+	<Building26>Lebensmittelgeschäft</Building26>
+	<Building27>Kaufhaus</Building27>
+	<Building28>Einkaufszentrum</Building28>
+	<Building29>Pfandhaus</Building29>
+	<Building30>Immobilien</Building30>
+	<Building31>Restaurants</Building31>
+	<Building32>Krankenhaus</Building32>
+	<Building33>Hotel</Building33>
+	<Building34>Leuchtturm</Building34>
+	<Building35>Polizeibüro</Building35>
+	<Building36>Rathaus</Building36>
+	<Building37>Bahnhof </Building37>
+	<Building38>Lila Windmühle</Building38>
+	<Building39>Blaue Windmühle</Building39>
+	<Building40>Rote Windmühle</Building40>
+	<FourHoursProfit>Erhalten Sie 4 Stunden sofortigen Nutzen!</FourHoursProfit>
+	<OneDayProfit>Nutzen Sie die Vorteile eines Tages!</OneDayProfit>
+	<FourGiftBox>erhält 4 Pakete!</FourGiftBox>
+	<SpeedUpX2>Beschleunigen Sie X2</SpeedUpX2>
+	<GetDiamond20>Holen Sie sich Diamond X20</GetDiamond20>
+	<UnlockQuest>erfolgreich entsperrt!</UnlockQuest>
+	<UnlockBoosts>Beschleunigen Sie den Store-Erfolg!</UnlockBoosts>
+	<BoostShopTip>Holen Sie sofort {0} Einnahmen!</BoostShopTip>
+	<DailyQuest>Tägliche Mission</DailyQuest>
+	<ACHIEVEMENTS>Erfolge</ACHIEVEMENTS>
+	<Spin>Geschenkpaket</Spin>
+	<BoostShop>Beschleunigter Shop</BoostShop>
+	<Manyhours>Stunden</Manyhours>
+	<Onehour>Stunden</Onehour>
+	<Manydays>Tage</Manydays>
+	<Oneday>Tag</Oneday>
+	<OnSaleDes>Glückwunsch! Holen Sie sich ein zeitlich begrenztes Rabattpaket, das zeitlich begrenzte Rabatt 24 Stunden gültig ist und nicht mehr kommt!</OnSaleDes>
+	<RateGetDiamond20>Bewerten Sie jetzt 20 Diamanten</RateGetDiamond20>
+	<Recycle>Ziehen Sie unerwünschte Gebäude zum Recycling in den Papierkorb</Recycle>
+</German>
+<French>  
+	<Income>Le revenuX{0}</Income>
+	<PerSecond>/sec</PerSecond>
+	<BuffSpeed>La vitesse X{0}</BuffSpeed>
+	<Shop>Boutique</Shop>
+	<SpeedUp>La vitesseX2</SpeedUp>
+	<EarnSpeed>La vitesse</EarnSpeed>
+	<Earnings>Gains</Earnings>
+	<Free>Libre</Free>
+	<Runway>Piste</Runway>
+	<Discount>Remise</Discount>
+	<EarningsInc>Augmentation des revenus {0}%</EarningsInc>
+	<BuildingOff>Tous les bâtiments {0}% de</BuildingOff>
+	<Owned>Possédé</Owned>
+	<GetCoinX2>ObtenirX2</GetCoinX2>
+	<GetCoinX3>ObtenirX3</GetCoinX3>
+	<OfflineEarn>Gains hors ligne</OfflineEarn>
+	<AdditionOfflineEarn>20% supplémentaires d'avantages hors ligne</AdditionOfflineEarn>
+	<Career>CARRIÈRE</Career>
+	<Stats>Statistiques</Stats>
+	<Glory>Gloire</Glory>
+	<Settings>Réglages</Settings>
+	<EarnPerSecond>Gagner par sec</EarnPerSecond>
+	<Equipments>Les équipements</Equipments>
+	<TotalEarnings>Total des gains</TotalEarnings>
+	<CollectGlory>Collecté:{0}/10</CollectGlory>
+	<Effect>Effet</Effect>
+	<Music>La musique</Music>
+	<Building>Bâtiment</Building>
+
+	<Membership>ADHÉSION</Membership>
+	<Restore>Restaurer</Restore>
+	<MoreBlocks>+2 Des blocs</MoreBlocks>
+	<MoreSpeed>+50% La vitesse</MoreSpeed>
+	<MoreTrack>+2 Plus de piste</MoreTrack>
+	<MoreOfflineEarning>+20% Gains hors ligne</MoreOfflineEarning>
+
+	<MembershipSubcribe>L'abonnement Gold offre un abonnement hebdomadaire, vous aurez une période de sentier GRATUITE de 3 jours. Après cette période, vous serez facturé 4,99 $. Après l'achat de cet abonnement, vous débloquerez les fonctionnalités suivantes: 15% de vitesse de tous les coureurs; ajoutez 2 pistes supplémentaires; ajoutez 2 blocs supplémentaires; 120% des revenus hors connexion, supprimer les annonces contextuelles; obtenez 10 diamants chaque jour. Avis de souscription:
+   . Le paiement sera facturé à l'AppStore lors de la confirmation de l'achat. L'abonnement se renouvelle automatiquement sauf si le renouvellement automatique est désactivé au moins 24 heures avant la fin de la période en cours.
+   . Compte sera facturé pour le renouvellement dans les 24 heures avant la fin de la période en cours, et identifie le coût du renouvellement
+   . Les abonnements peuvent être gérés par l'utilisateur et le renouvellement automatique peut être désactivé en accédant aux paramètres du compte de l'utilisateur après l'achat.
+   . Toute portion inutilisée d'une période d'essai gratuite, si elle est proposée, sera perdue lorsque l'utilisateur achète un abonnement à cette publication, le cas échéant
+	</MembershipSubcribe>
+	
+	<Privacy>Politique de confidentialité et conditions d'utilisation</Privacy>
+
+	<RemoveAds>Supprimez la pub!</RemoveAds>
+	<Get>Obtenir</Get>
+	<EverydayWard>10 tous les jours</EverydayWard>
+	<FreeBtnTitle>Commencez gratuitement</FreeBtnTitle>
+	<FreeTrail>3 jours d'essai gratuit, puis 4,99 $ par semaine</FreeTrail>
+	<OwnedVip>Vous avez possédé Vip</OwnedVip>
+	<Quests>Les quêtes</Quests>
+	<Boosts>Des boosters</Boosts>
+	<Member>Membre</Member>
+	<TOURNAMENT>TOURNOI</TOURNAMENT>
+	<RankHint>Gagnez plus pour obtenir un meilleur classement!</RankHint>
+	<Other>Autre</Other>
+
+	<Share>Partager</Share>
+	<PlayFriend>Jouez contre vos amis!</PlayFriend>
+	<You>Vous</You>
+	<SpinTitle>LUCK SPIN</SpinTitle>
+	<SpinTip>Prochain tour gratuit {0:D2}:{1:D2}:{2:D2}</SpinTip>
+	<AddSpeedDes>Ajouter encore 150 secondes</AddSpeedDes>
+	<TapClose>APPUYER POUR FERMER</TapClose>
+	<ArchitecturePack>FORFAIT ARCHITECTURE</ArchitecturePack>
+	<IncomePack>FORFAIT REVENU</IncomePack>
+	<ArchitecturePackDes>Construire X4</ArchitecturePackDes>
+	<IncomePackDes>Revenu en hausse X5</IncomePackDes>
+	<ExchangeTitle>ÉCHANGE DE DEVISES</ExchangeTitle>
+	<Min>Min</Min>
+	<Max>Max</Max>
+	<ExchangeBtn>Échange</ExchangeBtn>
+	<DiamondShopTitle>BOUTIQUE DE DIAMANTS</DiamondShopTitle>
+	<OfferTimeEnd>Offres se termine dans</OfferTimeEnd>
+	<Diamonds>Diamants</Diamonds>
+	<TimeWerp>Temps Article </TimeWerp>
+	<UnlockBuilding>Déverrouiller le nouveau bâtiment</UnlockBuilding>
+	<Confirm>CONFIRMER</Confirm>
+	<WarningNoMoreBlock>Plus de blocs vides</WarningNoMoreBlock>
+	<NetWordBroken>La connexion réseau a échoué</NetWordBroken>
+	<NoMoreCoin>Il n'y a pas assez de pièces</NoMoreCoin>
+	<NoProfit>Aucun profit!</NoProfit>
+	<LockWarning>Obtenez les bâtiments de niveau lv.{0} à débloquer.</LockWarning>
+	<SpeedTimeLimit>SAccélérer le temps limite</SpeedTimeLimit>
+	<Congratulation>FÉLICITATIONS!</Congratulation>
+	<BecomeVip>Devenez membre Gold!</BecomeVip>
+	<LevelUpGet>Nouveau</LevelUpGet>
+	<NewBlock>Nouveau bloc</NewBlock>
+	<NewPath>Nouveau chemin</NewPath>
+	<Guide1>Bienvenue dans le canton! Commençons un nouveau voyage pour découvrir le canton.</Guide1>
+	<Guide2>Vous devez d’abord appuyer sur pour acheter un nouveau bâtiment.</Guide2>
+	<Guide3>Génial! traînons et fusionnons le bâtiment pour monter de niveau.</Guide3>
+	<Guide4>Incroyable, vous apprenez très vite.</Guide4>
+	<Guide5>Maintenant, faites glisser le bâtiment sur la piste pour gagner des pièces.</Guide5>
+	<Guide6>Impressionnant! Le bâtiment de niveau supérieur gagne plus de pièces et plus rapidement! Maintenant, profitez de votre voyage dans le jeu de la ville!</Guide6>
+	<TapContinue>Appuyez sur pour continuer</TapContinue>
+
+	<Building1>Cabine bleue</Building1>
+	<Building2>Cabine rose</Building2>
+	<Building3>Cabine violette</Building3>
+	<Building4>Cabine jaune</Building4>
+	<Building5>Cabine pure</Building5>
+	<Building6>Cabine roseate</Building6>
+	<Building7>Cabine Romantique</Building7>
+	<Building8>Cabine confortable</Building8>
+	<Building9>Cabine d'hiver</Building9>
+	<Building10>Cabine de printemps</Building10>
+	<Building11>Cabine d'été</Building11>
+	<Building12>Cabine d'automne</Building12>
+	<Building13>Boutique de souvenirs</Building13>
+	<Building14>Magasin de bonbons</Building14>
+	<Building15>Boutique Café</Building15>
+	<Building16>Boutique Dessert</Building16>
+	<Building17>Boutique de vêtements</Building17>
+	<Building18>Magasin de fruits</Building18>
+	<Building19>Fleuriste</Building19>
+	<Building20>Supermarché</Building20>
+	<Building21>Fourgon à glace</Building21>
+	<Building22>Kiosque</Building22>
+	<Building23>Boutique de magie</Building23>
+	<Building24>Banque</Building24>
+	<Building25>Épicerie</Building25>
+	<Building26>Magasin de variétés</Building26>
+	<Building27>Grand magasin</Building27>
+	<Building28>Centre commercial</Building28>
+	<Building29>Pion</Building29>
+	<Building30>Immobilier</Building30>
+	<Building31>Restaurant</Building31>
+	<Building32>Hôpital</Building32>
+	<Building33>Un hôtel</Building33>
+	<Building34>Maison légère</Building34>
+	<Building35>Poste de police</Building35>
+	<Building36>Mairie</Building36>
+	<Building37>La gare</Building37>
+	<Building38>Moulin à vent violet</Building38>
+	<Building39>Moulin à vent bleu</Building39>
+	<Building40>Moulin à vent rouge</Building40>
+	<FourHoursProfit>Obtenez 4 heures de profit!</FourHoursProfit>
+	<OneDayProfit>Obtenez 1 jour de profit!</OneDayProfit>
+	<FourGiftBox>Recevez 4 coffrets cadeaux!</FourGiftBox>
+	<SpeedUpX2>Accélérer X2</SpeedUpX2>
+	<GetDiamond20>Obtenez des diamants X20</GetDiamond20>
+	<UnlockQuest>Les quêtes ont été débloquées!</UnlockQuest>
+	<UnlockBoosts>Des Boosters BOUTIQUE a été débloqué</UnlockBoosts>
+	<BoostShopTip>Obtenez immédiatement plus de {0} profit! Boosts Shop a été débloqué</BoostShopTip>
+	<DailyQuest>QUESTIONS QUOTIDIENNES</DailyQuest>
+	<ACHIEVEMENTS>RÉALISATIONS</ACHIEVEMENTS>
+	<Spin>TOURNER</Spin>
+	<BoostShop>Des Boosters BOUTIQUE</BoostShop>
+	<Manyhours>heures</Manyhours>
+	<Onehour>heure</Onehour>
+	<Manydays>journées</Manydays>
+	<Oneday>journée</Oneday>
+	<OnSaleDes>Félicitation! Le cadeau en vente a été débloqué!</OnSaleDes>
+	<RateGetDiamond20>Évaluez maintenant pour obtenir 20 diamants</RateGetDiamond20>
+	<Recycle>Faites glisser les bâtiments indésirables vers la corbeille pour les recycler</Recycle>
+</French>  
+<Spanish>  
+	<Income>IncomeX{0}</Income>
+	<PerSecond>/sec</PerSecond>
+	<BuffSpeed>Velocidad X{0}</BuffSpeed>
+	<Shop>Tienda</Shop>
+	<SpeedUp>VelocidadX2</SpeedUp>
+	<EarnSpeed>Velocidad</EarnSpeed>
+	<Earnings>Ganancias</Earnings>
+	<Free>Gratis</Free>
+	<Runway>Pista</Runway>
+	<Discount>Descuento</Discount>
+	<EarningsInc>Aumento de ganancias {0}%</EarningsInc>
+	<BuildingOff>Todo el edificio {0}% off</BuildingOff>
+	<Owned>De propiedad</Owned>
+	<GetCoinX2>ObtenerX2</GetCoinX2>
+	<GetCoinX3>ObtenerX3</GetCoinX3>
+	<OfflineEarn>Ganancias fuera de línea</OfflineEarn>
+	<AdditionOfflineEarn>20% adicional de beneficios fuera de línea</AdditionOfflineEarn>
+	<Career>CARRERA</Career>
+	<Stats>Estadísticas</Stats>
+	<Glory>Gloria</Glory>
+	<Settings>Ajustes</Settings>
+	<EarnPerSecond>Ganar por sec</EarnPerSecond>
+	<Equipments>Equipamientos</Equipments>
+	<TotalEarnings>Ganancias Totales</TotalEarnings>
+	<CollectGlory>Recogido:{0}/10</CollectGlory>
+	<Effect>Efecto</Effect>
+	<Music>Música</Music>
+	<Building>edificio</Building>
+
+	<Membership>MEMBRESÍA DORADA</Membership>
+	<Restore>Restaurar</Restore>
+	<MoreBlocks>+2 cuadras</MoreBlocks>
+	<MoreSpeed>+50% Velocidad</MoreSpeed>
+	<MoreTrack>+2 Más pista</MoreTrack>
+	<MoreOfflineEarning>+20% Ganancias fuera de línea</MoreOfflineEarning>
+
+	<MembershipSubcribe>La membresía Gold ofrece una suscripción semanal, tendrá un período de seguimiento GRATUITO de 3 días, después de este período se le cobrará $ 4.99. Después de comprar esta suscripción, desbloqueará las siguientes funciones: velocidad del 15% de todos los corredores; agregue 2 pistas adicionales; agrega 2 Bloques adicionales; 120% de ganancias fuera de línea; eliminar anuncios emergentes; Consigue 10 diamantes todos los días. Aviso de suscripción:
+. El pago se cargará a AppStore en la confirmación de la compra. La suscripción se renueva automáticamente a menos que la renovación automática se desactive al menos 24 horas antes del final del período actual
+. La cuenta se cobrará por renovación dentro de las 24 horas previas al final del período actual, e identificará el costo de la renovación
+. Las suscripciones pueden ser gestionadas por el usuario y la renovación automática puede desactivarse yendo a la Configuración de la cuenta del usuario después de la compra.
+. Cualquier porción no utilizada de un período de prueba gratuito, si se ofrece, se perderá cuando el usuario compre una suscripción a esa publicación, cuando corresponda.
+	</MembershipSubcribe>
+	
+	<Privacy>Política de privacidad y condiciones de uso</Privacy>
+
+	<RemoveAds>¡Quitar anuncios!</RemoveAds>
+	<Get>Obtener</Get>
+	<EverydayWard>10 Todos los días！</EverydayWard>
+	<FreeBtnTitle>Comience gratis</FreeBtnTitle>
+	<FreeTrail>3 días de prueba gratis, luego $ 4.99 por semana</FreeTrail>
+	<OwnedVip>Usted posee Vip</OwnedVip>
+	<Quests>Misiones</Quests>
+	<Boosts>Refuerzos</Boosts>
+	<Member>Miembro</Member>
+	<TOURNAMENT>TORNEO</TOURNAMENT>
+	<RankHint>Gana más para obtener una clasificación más alta!</RankHint>
+	<Other>Otro</Other>
+
+	<Share>Compartir</Share>
+	<PlayFriend>Juega contra tus amigos!</PlayFriend>
+	<You>Usted</You>
+	<SpinTitle>LUCKY SPIN</SpinTitle>
+	<SpinTip>Siguiente Free Spin {0:D2}:{1:D2}:{2:D2}</SpinTip>
+	<AddSpeedDes>Agregar otro... 150 Seconds</AddSpeedDes>
+	<TapClose>TAP PARA CERRAR</TapClose>
+	<ArchitecturePack>PAQUETE DE ARQUITECTURA</ArchitecturePack>
+	<IncomePack>PAQUETE DE INGRESOS</IncomePack>
+	<ArchitecturePackDes>Conseguir construir X4</ArchitecturePackDes>
+	<IncomePackDes>Ingresos hasta X5</IncomePackDes>
+	<ExchangeTitle>CAMBIO DE DIVISAS</ExchangeTitle>
+	<Min>Min</Min>
+	<Max>Max</Max>
+	<ExchangeBtn>Intercambiar</ExchangeBtn>
+	<DiamondShopTitle>TIENDA DE DIAMANTES</DiamondShopTitle>
+	<OfferTimeEnd>Ofertas termina en</OfferTimeEnd>
+	<Diamonds>Diamantes</Diamonds>
+	<TimeWerp>Túnel del tiempo</TimeWerp>
+	<UnlockBuilding>Desbloquear nuevo edificio</UnlockBuilding>
+	<Confirm>CONFIRMAR</Confirm>
+	<WarningNoMoreBlock>No más bloques vacíos</WarningNoMoreBlock>
+	<NetWordBroken>Falla la conexion de red</NetWordBroken>
+	<NoMoreCoin>No hay suficientes monedas</NoMoreCoin>
+	<NoProfit>Sin ganancia!</NoProfit>
+	<LockWarning>Consigue lv. {0} edificios para desbloquear.</LockWarning>
+	<SpeedTimeLimit>Acelerar el tiempo límite</SpeedTimeLimit>
+	<Congratulation>Enhorabuena!</Congratulation>
+	<BecomeVip>Conviértete en un miembro de oro!</BecomeVip>
+	<LevelUpGet>Nuevo</LevelUpGet>
+	<NewBlock>Bloque nuevo</NewBlock>
+	<NewPath>Nuevo camino</NewPath>
+	<Guide1>¡Bienvenido al municipio! Empecemos un nuevo viaje para descubrir el municipio.</Guide1>
+	<Guide2>Primero necesitas un grifo para comprar un nuevo edificio.</Guide2>
+	<Guide3>¡Genial! vamos a arrastrar y fusionar el edificio para subir de nivel.</Guide3>
+	<Guide4>¡Increíble! Aprendes muy rápido.</Guide4>
+	<Guide5>Ahora, arrastra el edificio a la pista para ganar monedas.</Guide5>
+	<Guide6>¡Increíble! ¡El edificio de nivel superior gana más monedas y más rápidamente! Ahora disfruta de tu viaje en Juego de la ciudad!</Guide6>
+	<TapContinue>Pulse para continuar</TapContinue>
+
+	<Building1>Cabaña azul</Building1>
+	<Building2>Cabina rosa</Building2>
+	<Building3>Cabina morada</Building3>
+	<Building4>Cabina amarilla</Building4>
+	<Building5>Cabina pura</Building5>
+	<Building6>Cabina de rosas</Building6>
+	<Building7>Cabina romantica</Building7>
+	<Building8>Acogedora cabaña</Building8>
+	<Building9>Cabina de invierno</Building9>
+	<Building10>Cabina de primavera</Building10>
+	<Building11>Cabina de verano</Building11>
+	<Building12>Cabina de otoño</Building12>
+	<Building13>Tienda de regalos</Building13>
+	<Building14>Dulcería</Building14>
+	<Building15>Cafetería</Building15>
+	<Building16>Tienda de postres</Building16>
+	<Building17>Tienda de ropa</Building17>
+	<Building18>Frutería</Building18>
+	<Building19>Tienda de flores</Building19>
+	<Building20>Supermercado</Building20>
+	<Building21>Helado Van</Building21>
+	<Building22>Quiosco</Building22>
+	<Building23>Tienda de magia</Building23>
+	<Building24>Banco</Building24>
+	<Building25>Tienda de comestibles</Building25>
+	<Building26>Tienda de variedades</Building26>
+	<Building27>Grandes almacenes</Building27>
+	<Building28>Centro comercial</Building28>
+	<Building29>Empeñar</Building29>
+	<Building30>Bienes raíces</Building30>
+	<Building31>Restaurante</Building31>
+	<Building32>Hospital</Building32>
+	<Building33>Hotel</Building33>
+	<Building34>Casa de luz</Building34>
+	<Building35>Estación de policía</Building35>
+	<Building36>Ayuntamiento</Building36>
+	<Building37>Estación de tren</Building37>
+	<Building38>Molino de viento púrpura</Building38>
+	<Building39>Molino de viento azul</Building39>
+	<Building40>Molino de viento rojo</Building40>
+	<FourHoursProfit>Obtenga 4 horas de ganancia!</FourHoursProfit>
+	<OneDayProfit>Obtenga 1 día de ganancias!</OneDayProfit>
+	<FourGiftBox>Consigue 4 caja de regalo!</FourGiftBox>
+	<SpeedUpX2>Acelerar X2</SpeedUpX2>
+	<GetDiamond20>Obtener diamantes X20</GetDiamond20>
+	<UnlockQuest>Misiones ha sido desbloqueado!</UnlockQuest>
+	<UnlockBoosts>Boosts Shop ha sido desbloqueado.！</UnlockBoosts>
+	<BoostShopTip>Obtenga {0} valor de ganancia inmediatamente!</BoostShopTip>
+	<DailyQuest>PREGUNTAS DIARIAS</DailyQuest>
+	<ACHIEVEMENTS>Logros</ACHIEVEMENTS>
+	<Spin>GIRAR</Spin>
+	<BoostShop>Tienda de regalos</BoostShop>
+	<Manyhours>Horas</Manyhours>
+	<Onehour>Horas</Onehour>
+	<Manydays>Dias</Manydays>
+	<Oneday>Dia</Oneday>
+	<OnSaleDes>Enhorabuena El regalo en oferta ha sido desbloqueado!</OnSaleDes>
+	<RateGetDiamond20>Valora ahora para obtener 20 diamantes</RateGetDiamond20>
+	<Recycle>Arrastre los edificios no deseados a la papelera de reciclaje para su reciclaje</Recycle>
+</Spanish>  
+<Portuguese>  
+	<Income>RendaX{0}</Income>
+	<PerSecond>/sec</PerSecond>
+	<BuffSpeed>Rapidez X{0}</BuffSpeed>
+	<Shop>loja</Shop>
+	<SpeedUp>RapidezX2</SpeedUp>
+	<EarnSpeed>Rapidez</EarnSpeed>
+	<Earnings>Ganhos</Earnings>
+	<Free>Livre</Free>
+	<Runway>Pista</Runway>
+	<Discount>Desconto</Discount>
+	<EarningsInc>Aumento de ganhos {0}%</EarningsInc>
+	<BuildingOff>Todo o edifício {0}% fora</BuildingOff>
+	<Owned>Possuído</Owned>
+	<GetCoinX2>PegueX2</GetCoinX2>
+	<GetCoinX3>PegueX3</GetCoinX3>
+	<OfflineEarn>Ganhos Offline</OfflineEarn>
+	<AdditionOfflineEarn>Benefícios off-line adicionais de 20%</AdditionOfflineEarn>
+	<Career>CARREIRA</Career>
+	<Stats>Estatísticos</Stats>
+	<Glory>Glória</Glory>
+	<Settings>Definições</Settings>
+	<EarnPerSecond>Ganhe por segundo</EarnPerSecond>
+	<Equipments>Equipamentos</Equipments>
+	<TotalEarnings>Ganhos totais</TotalEarnings>
+	<CollectGlory>Recolhidos:{0}/10</CollectGlory>
+	<Effect>Efeito</Effect>
+	<Music>Música</Music>
+	<Building>Construção</Building>
+
+	<Membership>Associação Gold</Membership>
+	<Restore>Restaurar</Restore>
+	<MoreBlocks>+2 Blocos</MoreBlocks>
+	<MoreSpeed>+50% Rapidez</MoreSpeed>
+	<MoreTrack>+2 Mais Track</MoreTrack>
+	<MoreOfflineEarning>+20% Ganhos Offline</MoreOfflineEarning>
+
+	<MembershipSubcribe>Associação Gold oferece uma assinatura semanal, você terá um período de 3 dias de trilha grátis, após este período você será cobrado $ 4,99. Depois de comprar esta assinatura, você desbloqueará os seguintes recursos: 15% de velocidade de todos os corredores, adicione 2 faixas extras; adicione 2 blocos extras; 120% de ganhos offline, remova anúncios pop-up; ganhe 10 diamantes todos os dias. Aviso de Subscrição:
+. O pagamento será cobrado à AppStore na confirmação da compra. A assinatura é renovada automaticamente, a menos que a renovação automática seja desativada pelo menos 24 horas antes do final do período atual
+. A conta será cobrada para renovação dentro de 24 horas antes do final do período atual e identificará o custo da renovação
+. As assinaturas podem ser gerenciadas pelo usuário e a renovação automática pode ser desativada acessando as Configurações da conta do usuário após a compra
+. Qualquer parte não usada de um período de avaliação gratuita, se oferecido, será perdida quando o usuário adquirir uma assinatura dessa publicação, quando aplicável.
+	</MembershipSubcribe>
+	
+	<Privacy>Política de privacidade e termos de uso</Privacy>
+
+	<RemoveAds>Remover propagandas!</RemoveAds>
+	<Get>Pegue</Get>
+	<EverydayWard>10 Todo dia！</EverydayWard>
+	<FreeBtnTitle>Comece de graça</FreeBtnTitle>
+	<FreeTrail>3 dias de teste gratuito e, em seguida, US $ 4,99 por semana</FreeTrail>
+	<OwnedVip>Você é dono do Vip</OwnedVip>
+	<Quests>Missões</Quests>
+	<Boosts>Impulsiona</Boosts>
+	<Member>Membro</Member>
+	<TOURNAMENT>TORNEIO</TOURNAMENT>
+	<RankHint>Ganhe mais para obter maior classificação!</RankHint>
+	<Other>De outros</Other>
+
+	<Share>Compartilhar</Share>
+	<PlayFriend>Jogue contra seus amigos!</PlayFriend>
+	<You>Você</You>
+	<SpinTitle>GIRAR SORTE</SpinTitle>
+	<SpinTip>Próxima rotação livre {0:D2}:{1:D2}:{2:D2}</SpinTip>
+	<AddSpeedDes>Adicione mais 150 segundos</AddSpeedDes>
+	<TapClose>TOCAR PARA FECHAR</TapClose>
+	<ArchitecturePack>PACOTE DE ARQUITETURA</ArchitecturePack>
+	<IncomePack>PACOTE DE RENDA</IncomePack>
+	<ArchitecturePackDes>Obter o edifício X4</ArchitecturePackDes>
+	<IncomePackDes>Renda acima X5</IncomePackDes>
+	<ExchangeTitle>CÂMBIO MONETÁRIO</ExchangeTitle>
+	<Min>Minuto</Min>
+	<Max>Max</Max>
+	<ExchangeBtn>Troca</ExchangeBtn>
+	<DiamondShopTitle>LOJA DE DIAMANTES</DiamondShopTitle>
+	<OfferTimeEnd>Ofertas Termina Em</OfferTimeEnd>
+	<Diamonds>Diamantes</Diamonds>
+	<TimeWerp>Tempo urdidura</TimeWerp>
+	<UnlockBuilding>Desbloquear novo edifício</UnlockBuilding>
+	<Confirm>confirmar</Confirm>
+	<WarningNoMoreBlock>Não há mais blocos vazios</WarningNoMoreBlock>
+	<NetWordBroken>Conexão de rede falhou</NetWordBroken>
+	<NoMoreCoin>Não há moedas suficientes</NoMoreCoin>
+	<NoProfit>Nenhum lucro!</NoProfit>
+	<LockWarning>Pegue lv.{0} edifícios para desbloquear.</LockWarning>
+	<SpeedTimeLimit>Limite de tempo de aceleração</SpeedTimeLimit>
+	<Congratulation>FELICITAÇÃO!</Congratulation>
+	<BecomeVip>Torne-se um membro Gold!</BecomeVip>
+	<LevelUpGet>Novo</LevelUpGet>
+	<NewBlock>Novo bloco</NewBlock>
+	<NewPath>Novo caminho</NewPath>
+	<Guide1>Bem-vindo ao município! Vamos começar uma nova jornada para descobrir o município.</Guide1>
+	<Guide2>Primeiro você precisa tocar para comprar um novo prédio.</Guide2>
+	<Guide3>Ótimo! vamos arrastar e mesclar o prédio para subir de nível.</Guide3>
+	<Guide4>Incrível! Você aprende muito rapidamente.</Guide4>
+	<Guide5>Agora, arraste o prédio para a pista para ganhar moedas.</Guide5>
+	<Guide6>Impressionante! O edifício de nível mais alto ganha mais moedas e mais rapidamente! Agora aproveite sua viagem em Game of town!</Guide6>
+	<TapContinue>Clique para continuar</TapContinue>
+
+	<Building1>Cabine Azul</Building1>
+	<Building2>Cabine Rosa</Building2>
+	<Building3>Cabine Roxa</Building3>
+	<Building4>Cabine Amarela</Building4>
+	<Building5>Cabine Puro</Building5>
+	<Building6>Cabine Rosa</Building6>
+	<Building7>Cabine Romântica</Building7>
+	<Building8>Cabine Acolhedor</Building8>
+	<Building9>Cabine de Inverno</Building9>
+	<Building10>Cabine de Primavera</Building10>
+	<Building11>Cabine de verão</Building11>
+	<Building12>Cabine de Outono</Building12>
+	<Building13>Loja de presentes</Building13>
+	<Building14>Loja de doces</Building14>
+	<Building15>Cafeteria</Building15>
+	<Building16>Loja de sobremesas</Building16>
+	<Building17>Loja de roupas</Building17>
+	<Building18>Loja de frutas</Building18>
+	<Building19>Floricultura</Building19>
+	<Building20>Supermercado</Building20>
+	<Building21>Sorvete Van</Building21>
+	<Building22>Quiosque</Building22>
+	<Building23>Loja Mágica</Building23>
+	<Building24>Banco</Building24>
+	<Building25>Loja Mercearia</Building25>
+	<Building26>Loja de variedades</Building26>
+	<Building27>Loja de departamento</Building27>
+	<Building28>Centro de compras</Building28>
+	<Building29>Penhor</Building29>
+	<Building30>Imobiliária</Building30>
+	<Building31>Restaurante</Building31>
+	<Building32>Hospital</Building32>
+	<Building33>Hotel</Building33>
+	<Building34>Casa Clara</Building34>
+	<Building35>Delegacia de polícia</Building35>
+	<Building36>Prefeitura</Building36>
+	<Building37>Estação de trem</Building37>
+	<Building38>Moinho de vento</Building38>
+	<Building39>Moinho Azul</Building39>
+	<Building40>Moinho vermelho</Building40>
+	<FourHoursProfit>Obtenha 4 horas de lucro</FourHoursProfit>
+	<OneDayProfit>Ganhe 1 dia de lucro!</OneDayProfit>
+	<FourGiftBox>Obter 4 caixa de presente!</FourGiftBox>
+	<SpeedUpX2>Rapidez X2</SpeedUpX2>
+	<GetDiamond20>Receba diamantes X20</GetDiamond20>
+	<UnlockQuest>As missões foram desbloqueadas!</UnlockQuest>
+	<UnlockBoosts>Impulsiona Shop foi desbloqueado！</UnlockBoosts>
+	<BoostShopTip>Pegue {0} valor de lucro imediatamente!</BoostShopTip>
+	<DailyQuest>QUESTÕES DIÁRIAS</DailyQuest>
+	<ACHIEVEMENTS>REALIZAÇÕES</ACHIEVEMENTS>
+	<Spin>GIRAR</Spin>
+	<BoostShop>Loja de impulsionar</BoostShop>
+	<Manyhours>horas</Manyhours>
+	<Onehour>horas</Onehour>
+	<Manydays>dias</Manydays>
+	<Oneday>dia</Oneday>
+	<OnSaleDes>Parabéns! Na venda presente foi desbloqueado!</OnSaleDes>
+	<RateGetDiamond20>Taxa agora para obter 20 diamantes</RateGetDiamond20>
+	<Recycle>Arraste construções indesejadas para a lixeira para reciclagem</Recycle>
+</Portuguese>
+<Italian>  
+    <Income>RedditoX{0}</Income>
+	<PerSecond>/secondo</PerSecond>
+	<BuffSpeed>VelocitàX{0}</BuffSpeed>
+	<Shop>Negozio</Shop>
+	<SpeedUp>VelocitàX2</SpeedUp>
+	<EarnSpeed>Velocità</EarnSpeed>
+	<Earnings>guadagni</Earnings>
+	<Free>Gratuito</Free>
+	<Runway>Pista di decollo</Runway>
+	<Discount>Sconto</Discount>
+	<EarningsInc>Aumento dei guadagni {0}%</EarningsInc>
+	<BuildingOff>Tutto in costruzione {0}% di sconto</BuildingOff>
+	<Owned>Di proprietà</Owned>
+	<GetCoinX2>OttenereX2</GetCoinX2>
+	<GetCoinX3>OttenereX3</GetCoinX3>
+	<OfflineEarn>Guadagni offline</OfflineEarn>
+	<AdditionOfflineEarn>Ulteriori vantaggi del 20% offline</AdditionOfflineEarn>
+	<Career>CARRIERA</Career>
+	<Stats>Statistiche</Stats>
+	<Glory>Ruhm</Glory>
+	<Settings>impostazioni</Settings>
+	<EarnPerSecond>Guadagna al secondo</EarnPerSecond>
+	<Equipments>apparecchiature</Equipments>
+	<TotalEarnings>Guadagni complessivi</TotalEarnings>
+	<CollectGlory>Raccolto:{0}/10</CollectGlory>
+	<Effect>Effettot</Effect>
+	<Music>Musica</Music>
+	<Building>Costruzione</Building>
+
+	<Membership>ISCRIZIONE GOLD</Membership>
+	<Restore>Ristabilire</Restore>
+	<MoreBlocks>+2 blocchi</MoreBlocks>
+	<MoreSpeed>+50% Velocità</MoreSpeed>
+	<MoreTrack>+2 Più traccia</MoreTrack>
+	<MoreOfflineEarning>+20% Guadagni offline</MoreOfflineEarning>
+
+	<MembershipSubcribe>Gold Membership offre un abbonamento settimanale, avrai un periodo di prova GRATUITO di 3 giorni, dopo questo periodo ti verranno addebitati $ 4,99. Dopo aver acquistato questo abbonamento, sbloccherai le seguenti funzionalità: 15% di velocità su tutti i corridori; aggiungi 2 tracce extra; aggiungi 2 blocchi extra; Guadagni offline del 120%; rimuovere gli annunci popup; ricevi 10 diamanti ogni giorno Avviso di abbonamento:
+	. Il pagamento sarà addebitato all'App Store alla conferma dell'acquisto. L'abbonamento si rinnova automaticamente a meno che il rinnovo automatico non venga disattivato almeno 24 ore prima della fine del periodo corrente
+	. L'account verrà addebitato per il rinnovo entro 24 ore prima della fine del periodo corrente e identificato il costo del rinnovo
+	. Le sottoscrizioni possono essere gestite dall'utente e il rinnovo automatico può essere disattivato andando alle Impostazioni account dell'utente dopo l'acquisto
+	. Qualsiasi porzione inutilizzata di un periodo di prova gratuito, se offerto, verrà incamerato quando l'utente acquista un abbonamento a tale pubblicazione, ove applicabile
+	</MembershipSubcribe>
+	
+	<Privacy>Norme sulla privacy e condizioni d'uso</Privacy>
+
+	<RemoveAds>Rimuovere gli annunci!</RemoveAds>
+	<Get>Ottenere</Get>
+	<EverydayWard>10 tutti i giorni!</EverydayWard>
+	<FreeBtnTitle>Inizia gratuitamente</FreeBtnTitle>
+	<FreeTrail>3 giorni di prova gratuita, poi $ 4,99 a settimana</FreeTrail>
+	<OwnedVip>Hai posseduto Vip</OwnedVip>
+	<Quests>missioni</Quests>
+	<Boosts>aumenta</Boosts>
+	<Member>Membro</Member>
+	<TOURNAMENT>TORNEO</TOURNAMENT>
+	<RankHint>Guadagna di più per ottenere il punteggio più alto!</RankHint>
+	<Other>Altro</Other>
+
+	<Share>Condividere</Share>
+	<PlayFriend>Gioca contro i tuoi amici!</PlayFriend>
+	<You>tu</You>
+	<SpinTitle>LUCK SPIN</SpinTitle>
+	<SpinTip>Prossimo giro gratuito {0:D2}:{1:D2}:{2:D2}</SpinTip>
+	<AddSpeedDes>Aggiungi altri 150 secondi</AddSpeedDes>
+	<TapClose>TOCCA PER CHIUDERE</TapClose>
+	<ArchitecturePack>PACCHETTO ARCHITETTURA</ArchitecturePack>
+	<IncomePack>PACCHETTO DI REDDITO</IncomePack>
+	<ArchitecturePackDes>Costruisci X4</ArchitecturePackDes>
+	<IncomePackDes>Reddito X5</IncomePackDes>
+	<ExchangeTitle>CAMBIO DI VALUTA</ExchangeTitle>
+	<Min>min</Min>
+	<Max>Max</Max>
+	<ExchangeBtn>Scambio</ExchangeBtn>
+	<DiamondShopTitle>NEGOZIO DIAMANTI</DiamondShopTitle>
+	<OfferTimeEnd>Offerte termina</OfferTimeEnd>
+	<Diamonds>quadri</Diamonds>
+	<TimeWerp>Distorsione del tempo</TimeWerp>
+	<UnlockBuilding>Sblocca il nuovo edificio</UnlockBuilding>
+	<Confirm>CONFERMARE</Confirm>
+	<WarningNoMoreBlock>Niente più blocchi vuoti</WarningNoMoreBlock>
+	<NetWordBroken>Connessione di rete fallita</NetWordBroken>
+	<NoMoreCoin>Non ci sono abbastanza monete</NoMoreCoin>
+	<NoProfit>Senza profitto!</NoProfit>
+	<LockWarning>Ottieni lv. {0} edifici da sbloccare</LockWarning>
+	<SpeedTimeLimit>Limitazione del tempo di accelerazione</SpeedTimeLimit>
+	<Congratulation>Congratulazioni!</Congratulation>
+	<BecomeVip>Diventa un membro Gold!</BecomeVip>
+	<LevelUpGet>Nuovo</LevelUpGet>
+	<NewBlock>Nuovo blocco</NewBlock>
+	<NewPath>Nuovo percorso</NewPath>
+	<Guide1>Benvenuto nella township! Iniziamo un nuovo viaggio alla scoperta della borgata</Guide1>
+	<Guide2>Per prima cosa è necessario toccare per acquistare un nuovo edificio.</Guide2>
+	<Guide3>Grande! trasciniamo e uniamo l'edificio per salire di livello.</Guide3>
+	<Guide4>Incredibile! Impari molto velocemente.</Guide4>
+	<Guide5>Ora trascina l'edificio sulla pista per guadagnare monete.</Guide5>
+	<Guide6>Eccezionale! L'edificio di livello superiore guadagna più monete e più velocemente! Ora goditi il tuo viaggio in Game of town!</Guide6>
+	<TapContinue>Tocca per continuare</TapContinue>
+
+	<Building1>Cabina blu</Building1>
+	<Building2>Cabina rosa</Building2>
+	<Building3>Cabina viola</Building3>
+	<Building4>Cabina gialla</Building4>
+	<Building5>Cabina pura</Building5>
+	<Building6>Cabina delle Rose</Building6>
+	<Building7>Cabina romantica</Building7>
+	<Building8>Cabina accogliente</Building8>
+	<Building9>Cabina invernale</Building9>
+	<Building10>Cabina di primavera</Building10>
+	<Building11>Cabina estiva</Building11>
+	<Building12>Cabina d'autunno</Building12>
+	<Building13>Negozio di regali</Building13>
+	<Building14>Negozio di caramelle</Building14>
+	<Building15>Caffetteria</Building15>
+	<Building16>Pasticceria</Building16>
+	<Building17>Negozio di vestiti</Building17>
+	<Building18>Fruttivendolo</Building18>
+	<Building19>Negozio di fiori</Building19>
+	<Building20>Supermercato</Building20>
+	<Building21>Gelato Van</Building21>
+	<Building22>Chiosco</Building22>
+	<Building23>Negozio di magia</Building23>
+	<Building24>Banca</Building24>
+	<Building25>Negozio di alimentari</Building25>
+	<Building26>Variety Store</Building26>
+	<Building27>Grande magazzino</Building27>
+	<Building28>Centro commerciale</Building28>
+	<Building29>Pegno</Building29>
+	<Building30>Immobiliare</Building30>
+	<Building31>Ristorante</Building31>
+	<Building32>Ospedale</Building32>
+	<Building33>Hotel</Building33>
+	<Building34>lofaro</Building34>
+	<Building35>Stazione di polizia</Building35>
+	<Building36>Municipio</Building36>
+	<Building37>Stazione ferroviaria</Building37>
+	<Building38>Mulino a vento viola</Building38>
+	<Building39>Mulino a vento blu</Building39>
+	<Building40>ilmulino a vento</Building40>
+	<FourHoursProfit>Ottieni 4 ore di profitto!</FourHoursProfit>
+	<OneDayProfit>Ottieni 1 giorno di guadagno!</OneDayProfit>
+	<FourGiftBox>Ottieni 4 confezioni regalo!</FourGiftBox>
+	<SpeedUpX2>Accelerare X2</SpeedUpX2>
+	<GetDiamond20>Ottieni diamanti X20</GetDiamond20>
+	<UnlockQuest>Le missioni sono state sbloccate!</UnlockQuest>
+	<UnlockBoosts>Boosts Shop è stato sbloccato!</UnlockBoosts>
+	<BoostShopTip>Ottieni {0} di profitto immediatamente!</BoostShopTip>
+	<DailyQuest>QUOTE GIORNALIERE</DailyQuest>
+	<ACHIEVEMENTS>RISULTATI</ACHIEVEMENTS>
+	<Spin>ROTAZIONE</Spin>
+	<BoostShop>BOOSTS SHOP</BoostShop>
+	<Manyhours> ore</Manyhours>
+	<Onehour> ora</Onehour>
+	<Manydays> giorni</Manydays>
+	<Oneday> giorno</Oneday>
+	<OnSaleDes>Complimenti! Il regalo in vendita è stato sbloccato!</OnSaleDes>  
+	<RateGetDiamond20>Vota ora per ottenere 20 diamanti</RateGetDiamond20>
+	<Recycle>Trascina gli edifici indesiderati nel cestino per il riciclaggio</Recycle>
+</Italian> 
+<TraditionChinese>
+	<Income>收益X{0}</Income>
+	<PerSecond>/秒</PerSecond>
+	<BuffSpeed>攻擊速度 X{0}</BuffSpeed>
+	<Shop>商店</Shop>
+	<SpeedUp>攻擊速度X2</SpeedUp>
+	<EarnSpeed>攻擊速度</EarnSpeed>
+	<Earnings>收入</Earnings>
+	<Free>免費</Free>
+	<Runway>砲台</Runway>
+	<Discount>折扣</Discount>
+	<EarningsInc>收入增加 {0}%</EarningsInc>
+	<BuildingOff>所有箭塔降價 {0}%</BuildingOff>
+	<Owned>擁有</Owned>
+	<GetCoinX2>獲得X2</GetCoinX2>
+	<GetCoinX3>獲得X3</GetCoinX3>
+	<OfflineEarn>離線收益</OfflineEarn>
+	<AdditionOfflineEarn>額外增加20%離線收益</AdditionOfflineEarn>
+	<Career>玩家信息</Career>
+	<Stats>概覽</Stats>
+	<Glory>成就</Glory>
+	<Settings>設置</Settings>
+	<EarnPerSecond>每秒收益</EarnPerSecond>
+	<Equipments>裝備</Equipments>
+	<TotalEarnings>總共收益</TotalEarnings>
+	<CollectGlory>達成:{0}/10</CollectGlory>
+	<Effect>特效</Effect>
+	<Music>音樂</Music>
+	<Building>箭塔</Building>
+
+	<Membership>黃金vip會員</Membership>
+	<Restore>恢復</Restore>
+	<MoreBlocks>+2 格子</MoreBlocks>
+	<MoreSpeed>+50% 攻擊速度</MoreSpeed>
+	<MoreTrack>+2 砲台</MoreTrack>
+	<MoreOfflineEarning>+20% 離線收益</MoreOfflineEarning>
+
+	<MembershipSubcribe>黃金vip會員黃金VIP會員提供週訂閱服務,您可以享受3天的免費試用期, 試用期結束之後將會被收取每週4.99美金的費用. 購買會員之後，您將擁有以下特權: 15O %攻擊速度;增加兩個額外的砲台; 增加兩個額外的空地; 120%離線收益;免彈窗廣告; 每天獲得十鑽. 訂閱須知:
+	. 確認訂閱之後將由蘋果商店收取費用. 除非在會員到期前24小時取消自動續費功能，否則係統將自動扣費。
+	. 在到期前24小時內將確定續費金額並進行自動扣費。
+	. 用戶可通過賬號管理隨時取消自動續費
+	. 免費試用期未被使用的部分, 如若被提供, 當用戶訂閱了該服務時將被作廢
+	</MembershipSubcribe>
+
+	<Privacy>隱私政策和使用條款</Privacy>
+
+	<RemoveAds>去除廣告!</RemoveAds>
+	<Get>獲得</Get>
+	<EverydayWard>10 每一天！ </EverydayWard>
+	<FreeBtnTitle>免費試用</FreeBtnTitle>
+	<FreeTrail>3天免費試用，試用期後每週僅需$4.99</FreeTrail>
+	<OwnedVip>您是vip會員</OwnedVip>
+	<Quests>任務</Quests>
+	<Boosts>加速</Boosts>
+	<Member>會員</Member>
+	<TOURNAMENT>排行榜</TOURNAMENT>
+	<RankHint>賺取更多的錢，獲得更好的排名!</RankHint>
+	<Other>其他</Other>
+
+	<Share>分享</Share>
+	<PlayFriend>和朋友一起玩!</PlayFriend>
+	<You>您</You>
+	<SpinTitle>幸運轉盤</SpinTitle>
+	<SpinTip>下次轉盤時間 {0:D2}:{1:D2}:{2:D2}</SpinTip>
+	<AddSpeedDes>額外增加150秒</AddSpeedDes>
+	<TapClose>點擊關閉</TapClose>
+	<ArchitecturePack>箭塔禮包</ArchitecturePack>
+	<IncomePack>收益禮包</IncomePack>
+	<ArchitecturePackDes>獲得箭塔 X4</ArchitecturePackDes>
+	<IncomePackDes>收益增加 X5</IncomePackDes>
+	<ExchangeTitle>貨幣兌換</ExchangeTitle>
+	<Min>最小</Min>
+	<Max>最大</Max>
+	<ExchangeBtn>兌換</ExchangeBtn>
+	<DiamondShopTitle>鑽石商店</DiamondShopTitle>
+	<OfferTimeEnd>剩餘時間</OfferTimeEnd>
+	<Diamonds>鑽石</Diamonds>
+	<TimeWerp>加速道具</TimeWerp>
+	<UnlockBuilding>解鎖新箭塔</UnlockBuilding>
+	<Confirm>確認</Confirm>
+	<WarningNoMoreBlock>沒有額外的空格子</WarningNoMoreBlock>
+	<NetWordBroken>網絡鏈接失敗</NetWordBroken>
+	<NoMoreCoin>金幣不足</NoMoreCoin>
+	<NoProfit>沒有利潤!</NoProfit>
+	<LockWarning>解鎖lv.{0}箭塔.</LockWarning>
+	<SpeedTimeLimit>加速時間限制</SpeedTimeLimit>
+	<Congratulation>恭喜您!</Congratulation>
+	<BecomeVip>成為vip會員!</BecomeVip>
+	<LevelUpGet>解鎖</LevelUpGet>
+	<NewBlock>新格子</NewBlock>
+	<NewPath>新砲台</NewPath>
+	<Guide1>歡迎來到酷酷塔防！讓我們開啟探索酷酷塔防的旅程吧</Guide1>
+    <Guide2>首先你需要點擊去購買一座新的箭塔</Guide2>
+    <Guide3>太棒了！讓我們點擊合併去升級這些箭塔吧！ </Guide3>
+    <Guide4>不可思議呀！您學習的很快呢！ </Guide4>
+    <Guide5>現在，請將箭塔拖到砲台上去賺取金幣吧！ </Guide5>
+    <Guide6>厲害了！箭塔等級越高，賺取金幣的速度將越快，數量越多! 現在來開啟你在酷酷塔防的旅程吧!</Guide6>
+	<TapContinue>點擊繼續</TapContinue>
+
+    <Building1>普通箭弩</Building1>
+    <Building2>中級箭弩</Building2>
+    <Building3>高級箭弩</Building3>
+    <Building4>普通硫酸塔</Building4>
+    <Building5>中級硫酸塔</Building5>
+    <Building6>高級硫酸塔</Building6>
+    <Building7>普通大砲</Building7>
+    <Building8>中級大砲</Building8>
+    <Building9>高級大砲</Building9>
+    <Building10>普通火砲</Building10>
+    <Building11>中級火砲</Building11>
+    <Building12>高級火砲</Building12>
+    <Building13>普通加特林</Building13>
+    <Building14>中級加特林</Building14>
+    <Building15>高級加特林</Building15>
+    <Building16>普通水晶炮</Building16>
+    <Building17>中級水晶炮</Building17>
+    <Building18>高級水晶炮</Building18>
+    <Building19>普通高斯炮</Building19>
+    <Building20>中級高斯炮</Building20>
+    <Building21>高級高斯炮</Building21>
+    <Building22>普通錘子塔</Building22>
+    <Building23>中級錘子塔</Building23>
+    <Building24>高級錘子塔</Building24>
+    <Building25>普通激光炮</Building25>
+    <Building26>中級激光炮</Building26>
+    <Building27>高級激光炮</Building27>
+    <Building28>普通等離子炮</Building28>
+    <Building29>中級等離子炮</Building29>
+    <Building30>高級等離子炮</Building30>
+    <Building31>普通雷達炮</Building31>
+    <Building32>中級雷達炮</Building32>
+    <Building33>高級雷達炮</Building33>
+    <Building34>多重火箭炮</Building34>
+    <Building35>普通火箭炮</Building35>
+    <Building36>中級火箭炮</Building36>
+    <Building37>高級火箭炮</Building37>
+    <Building38>普通電磁炮 </Building38>
+    <Building39>中級電磁炮</Building39>
+    <Building40>高級電磁炮</Building40>
+	<FourHoursProfit>立即獲得4小時的收益!</FourHoursProfit>
+	<OneDayProfit>立即獲得一天收益!</OneDayProfit>
+	<FourGiftBox>獲得4個禮包!</FourGiftBox>
+	<SpeedUpX2>加速X2</SpeedUpX2>
+	<GetDiamond20>獲得鑽石 X20</GetDiamond20>
+	<UnlockQuest>任務解鎖成功!</UnlockQuest>
+	<UnlockBoosts>加速商店解鎖成功！ </UnlockBoosts>
+	<BoostShopTip>立即獲得 {0} 收益!</BoostShopTip>
+	<DailyQuest>每日任務</DailyQuest>
+	<ACHIEVEMENTS>成就</ACHIEVEMENTS>
+	<Spin>禮包</Spin>
+	<BoostShop>加速商店</BoostShop>
+	<Manyhours>小時</Manyhours>
+	<Onehour>小時</Onehour>
+	<Manydays>天</Manydays>
+	<Oneday>天</Oneday>
+	<OnSaleDes>恭喜您！獲得限時折扣禮包，限時折扣有效期24小時，時不再來!</OnSaleDes>
+	<RateGetDiamond20>現在去評星，可以獲得20個鑽石獎勵</RateGetDiamond20>
+	<Recycle>將不要的箭塔拖到回收站進行回收</Recycle>
+	<Recycle1>回收站</Recycle1>
+</TraditionChinese> 
+<Korea>  
+	<Income>수입X{0}</Income>
+	<PerSecond>/비서</PerSecond>
+	<BuffSpeed>속도X{0}</BuffSpeed>
+	<Shop>가게`</Shop>
+	<SpeedUp>속도X2</SpeedUp>
+	<EarnSpeed>속도</EarnSpeed>
+	<Earnings>수입</Earnings>
+	<Free>비어 있는</Free>
+	<Runway>통로</Runway>
+	<Discount>할인</Discount>
+	<EarningsInc>수입 증가 {0}%</EarningsInc>
+	<BuildingOff>모든 건물 {0}% off</BuildingOff>
+	<Owned>소유</Owned>
+	<GetCoinX2>도망X2</GetCoinX2>
+	<GetCoinX3>도망X3</GetCoinX3>
+	<OfflineEarn>오프라인 수입</OfflineEarn>
+	<AdditionOfflineEarn>추가 20 % 오프라인 혜택</AdditionOfflineEarn>
+	<Career>직업</Career>
+	<Stats>통계</Stats>
+	<Glory>영광</Glory>
+	<Settings>설정</Settings>
+	<EarnPerSecond>초당 수익</EarnPerSecond>
+	<Equipments>장비</Equipments>
+	<TotalEarnings>전체 수익</TotalEarnings>
+	<CollectGlory>모은:{0}/10</CollectGlory>
+	<Effect>효과</Effect>
+	<Music>음악</Music>
+	<Building>건물</Building>
+
+	<Membership>골드 멤버십</Membership>
+	<Restore>복원</Restore>
+	<MoreBlocks>+2 블록</MoreBlocks>
+	<MoreSpeed>+50% 속도</MoreSpeed>
+	<MoreTrack>+2 더 많은 트랙</MoreTrack>
+	<MoreOfflineEarning>+20% 오프라인 수입</MoreOfflineEarning>
+
+	<MembershipSubcribe>금 회원권은 주간 구독을 제공하며, 3 일간 무료 트레일 기간을 갖게됩니다.이 기간이 지나면 4.99 달러가 부과됩니다. 이 구독을 구입하면 다음 기능을 잠금 해제합니다 : 모든 주자의 속도가 15o, 2 개의 추가 트랙 추가, 2 개의 여분의 블록을 추가하십시오; 오프라인 수입 120 %, 팝업 광고 삭제, 매일 10 개의 다이아몬드를 얻으십시오. 구독 공지 :
+	. 지불 확인은 AppStore에 청구됩니다. 현재 기간이 끝나기 최소 24 시간 전에 자동 갱신이 해제되어 있지 않으면 구독이 자동으로 갱신됩니다.
+	. 계정에는 현재 기간이 끝나기 24 시간 이내에 갱신 비용이 부과되며 갱신 비용이 명시됩니다
+	. 구독은 사용자가 관리 할 수 있으며 구매 후 사용자의 계정 설정으로 이동하여 자동 갱신을 사용 중지 할 수 있습니다
+	. 무료 평가판 사용 기간의 미사용 부분은 사용자가 해당 발행물에 대한 구독을 구매할 경우 해당되는 경우 효력이 상실됩니다
+	</MembershipSubcribe>
+	
+	<Privacy>개인 정보 보호 정책 및 이용 약관</Privacy>
+
+	<RemoveAds>광고를 제거하다!</RemoveAds>
+	<Get>도망</Get>
+	<EverydayWard>10 매일!</EverydayWard>
+	<FreeBtnTitle>무료로 시작</FreeBtnTitle>
+	<FreeTrail>3 일 무료 평가판, 일주일에 $ 4.99</FreeTrail>
+	<OwnedVip>너 VIP를 소유했다</OwnedVip>
+	<Quests>퀘스트</Quests>
+	<Boosts>부스트</Boosts>
+	<Member>회원</Member>
+	<TOURNAMENT>토너먼트</TOURNAMENT>
+	<RankHint>더 높은 순위를 얻으려면 더 많은 수익을 올리십시오!</RankHint>
+	<Other>다른</Other>
+
+	<Share>몫</Share>
+	<PlayFriend>친구들과 놀아 라!</PlayFriend>
+	<You>당신</You>
+	<SpinTitle>럭 스핀</SpinTitle>
+	<SpinTip>다음 무료 스핀 {0:D2}:{1:D2}:{2:D2}</SpinTip>
+	<AddSpeedDes>150 초 추가</AddSpeedDes>
+	<TapClose>닫으려면 가십시오.</TapClose>
+	<ArchitecturePack>건축 패키지</ArchitecturePack>
+	<IncomePack>소득 패키지</IncomePack>
+	<ArchitecturePackDes>건물 만들기 X4</ArchitecturePackDes>
+	<IncomePackDes>소득 올리기 X5</IncomePackDes>
+	<ExchangeTitle>환전소</ExchangeTitle>
+	<Min>최소</Min>
+	<Max>맥스</Max>
+	<ExchangeBtn>교환</ExchangeBtn>
+	<DiamondShopTitle>다이아몬드 가게</DiamondShopTitle>
+	<OfferTimeEnd>혜택은 끝납니다</OfferTimeEnd>
+	<Diamonds>다이아 패 한 벌</Diamonds>
+	<TimeWerp>타임 워프</TimeWerp>
+	<UnlockBuilding>새 건물 잠금 해제</UnlockBuilding>
+	<Confirm>확인</Confirm>
+	<WarningNoMoreBlock>더 이상 빈 블록 없음</WarningNoMoreBlock>
+	<NetWordBroken>네트워크 연결 실패</NetWordBroken>
+	<NoMoreCoin>동전이 충분하지 않습니다.</NoMoreCoin>
+	<NoProfit>이익이 없다!</NoProfit>
+	<LockWarning>빌딩 {0} 개의 건물을 열어 잠금 해제합니다.</LockWarning>
+	<SpeedTimeLimit>속도 제한 시간</SpeedTimeLimit>
+	<Congratulation>축하해!</Congratulation>
+	<BecomeVip>금 회원이 되십시오!</BecomeVip>
+	<LevelUpGet>새로운</LevelUpGet>
+	<NewBlock>새 블록</NewBlock>
+	<NewPath>새 경로</NewPath>
+	<Guide1>타운 쉽에 오신 것을 환영합니다! 마을을 발견하기위한 새로운 여정을 시작할 수 있습니다.</Guide1>
+	<Guide2>먼저 새 건물을 사기 위해 꼭지가 필요합니다.</Guide2>
+	<Guide3>큰! 건물을 드래그하여 병합하여 레벨을 올리십시오.</Guide3>
+	<Guide4>놀라운! 당신은 매우 빨리 배웁니다.</Guide4>
+	<Guide5>이제 동전을 얻기 위해 건물을 트랙으로 드래그하십시오.</Guide5>
+	<Guide6>굉장해! 높은 수준의 건물은 더 많은 동전을 더 빨리 벌 수 있습니다! 이제 마을 게임에서 즐거운 시간을 보내십시오!</Guide6>
+	<TapContinue>계속하려면 탭하세요.</TapContinue>
+
+	<Building1>블루 캐빈</Building1>
+	<Building2>핑크 오두막</Building2>
+	<Building3>자주색 오두막</Building3>
+	<Building4>노란 오두막</Building4>
+	<Building5>순수한 오두막</Building5>
+	<Building6>로즈 캐빈</Building6>
+	<Building7>낭만적 인 오두막</Building7>
+	<Building8>아늑한 오두막</Building8>
+	<Building9>겨울 오두막</Building9>
+	<Building10>스프링 캐빈</Building10>
+	<Building11>여름 오두막</Building11>
+	<Building12>가을 오두막</Building12>
+	<Building13>선물 가게</Building13>
+	<Building14>사탕 가게</Building14>
+	<Building15>커피 샵</Building15>
+	<Building16>디저트 가게</Building16>
+	<Building17>옷가게</Building17>
+	<Building18>과일 가게</Building18>
+	<Building19>꽃 가게</Building19>
+	<Building20>슈퍼마켓</Building20>
+	<Building21>아이스크림 밴</Building21>
+	<Building22>정자</Building22>
+	<Building23>매직 샵</Building23>
+	<Building24>은행</Building24>
+	<Building25>식료품 점</Building25>
+	<Building26>잡화점</Building26>
+	<Building27>백화점</Building27>
+	<Building28>쇼핑몰</Building28>
+	<Building29>폰</Building29>
+	<Building30>부동산</Building30>
+	<Building31>레스토랑</Building31>
+	<Building32>병원</Building32>
+	<Building33>호텔</Building33>
+	<Building34>라이트 하우스</Building34>
+	<Building35>경찰서</Building35>
+	<Building36>시청</Building36>
+	<Building37>기차역</Building37>
+	<Building38>보라색 풍차</Building38>
+	<Building39>푸른 풍차</Building39>
+	<Building40>레드 풍차</Building40>
+	<FourHoursProfit>4 시간 분량의 이익을 얻으십시오!</FourHoursProfit>
+	<OneDayProfit>1 일 가치의 이익을 얻으십시오!</OneDayProfit>
+	<FourGiftBox>선물 상자 네 개 가져와!</FourGiftBox>
+	<SpeedUpX2>속도를 올리다 X2</SpeedUpX2>
+	<GetDiamond20>다이아몬드 가져 오기 X20</GetDiamond20>
+	<UnlockQuest>퀘스트가 해제되었습니다!</UnlockQuest>
+	<UnlockBoosts>부스트 숍이 열렸습니다!</UnlockBoosts>
+	<BoostShopTip>즉시 {0} 상당의 이익을 얻으십시오!</BoostShopTip>
+	<DailyQuest>매일 퀘스트</DailyQuest>
+	<ACHIEVEMENTS>업적</ACHIEVEMENTS>
+	<Spin>회전</Spin>
+	<BoostShop>부스트 숍</BoostShop>
+	<Manyhours> 시간</Manyhours>
+	<Onehour>시간</Onehour>
+	<Manydays> 일</Manydays>
+	<Oneday> 일</Oneday>
+	<OnSaleDes>축하해! 판매 선물에 잠금이 해제되었습니다!</OnSaleDes>
+	<RateGetDiamond20>20 개의 다이아몬드를 지금 평가하십시오!</RateGetDiamond20>
+	<Recycle>재활용을 위해 불필요한 건물을 휴지통으로 끌기</Recycle>
+</Korea>
+<Russia>  
+	<Income>доходX{0}</Income>
+	<PerSecond>/сек</PerSecond>
+	<BuffSpeed>скорость X{0}</BuffSpeed>
+	<Shop>Магазин</Shop>
+	<SpeedUp>скоростьX2</SpeedUp>
+	<EarnSpeed>скорость</EarnSpeed>
+	<Earnings>прибыль</Earnings>
+	<Free>Свободно</Free>
+	<Runway>Посадочная полоса</Runway>
+	<Discount>скидка</Discount>
+	<EarningsInc>Прибыль увеличивается {0}%</EarningsInc>
+	<BuildingOff>Все здания {0}% скидка</BuildingOff>
+	<Owned>Принадлежит</Owned>
+	<GetCoinX2>ПолучитьX2</GetCoinX2>
+	<GetCoinX3>ПолучитьX3</GetCoinX3>
+	<OfflineEarn>Доход от оффлайн</OfflineEarn>
+	<AdditionOfflineEarn>Дополнительные 20% оффлайн преимущества</AdditionOfflineEarn>
+	<Career>КАРЬЕРА</Career>
+	<Stats>Статистика</Stats>
+	<Glory>слава</Glory>
+	<Settings>настройки</Settings>
+	<EarnPerSecond>Зарабатывать в секунду</EarnPerSecond>
+	<Equipments>оборудование</Equipments>
+	<TotalEarnings>Общий доход</TotalEarnings>
+	<CollectGlory>собранный:{0}/10</CollectGlory>
+	<Effect>эффект</Effect>
+	<Music>Музыка</Music>
+	<Building>Строительство</Building>
+
+	<Membership>ЗОЛОТОЕ ЧЛЕНСТВО</Membership>
+	<Restore>Восстановить</Restore>
+	<MoreBlocks>+2 Блоки</MoreBlocks>
+	<MoreSpeed>+50% скорость</MoreSpeed>
+	<MoreTrack>+2 Больше Трек</MoreTrack>
+	<MoreOfflineEarning>+20% Доход от оффлайн</MoreOfflineEarning>
+
+	<MembershipSubcribe>Золотое членство предлагает еженедельную подписку, у вас будет 3-дневный БЕСПЛАТНЫЙ период, после которого с вас будет взиматься $ 4,99. После покупки этой подписки вы разблокируете следующие функции: 15% скорости всех бегунов, добавьте 2 дополнительных трека; добавить 2 дополнительных блока; 120% оффлайн заработка; убирайте всплывающую рекламу; получите 10 бриллиантов каждый день. Уведомление о подписке:
+	. Оплата будет снята с AppStore при подтверждении покупки. Подписка автоматически продлевается, если автоматическое продление не отключено по крайней мере за 24 часа до окончания текущего периода.
+	. С аккаунта будет взиматься плата за продление в течение 24 часов до окончания текущего периода, и указывается стоимость продления
+	. Пользователь может управлять подписками, а автоматическое обновление можно отключить, перейдя в настройки учетной записи пользователя после покупки.
+	. Любая неиспользованная часть бесплатного пробного периода, если таковая предлагается, будет аннулирована, когда пользователь приобретает подписку на эту публикацию, где это применимо.
+	</MembershipSubcribe>
+	
+	<Privacy>Политика конфиденциальности и условия использования</Privacy>
+
+	<RemoveAds>Убрать рекламу!</RemoveAds>
+	<Get>Получить</Get>
+	<EverydayWard>10 каждый день！</EverydayWard>
+	<FreeBtnTitle>Начать бесплатно</FreeBtnTitle>
+	<FreeTrail>3 дня бесплатной пробной версии, затем $ 4,99 в неделю</FreeTrail>
+	<OwnedVip>Вы владеете VIP</OwnedVip>
+	<Quests>Задания</Quests>
+	<Boosts>Усиливает</Boosts>
+	<Member>член</Member>
+	<TOURNAMENT>ТУРНИР</TOURNAMENT>
+	<RankHint>Зарабатывайте больше, чтобы получить более высокий рейтинг!</RankHint>
+	<Other>Другой</Other>
+
+	<Share>Поделиться</Share>
+	<PlayFriend>Играйте против своих друзей!</PlayFriend>
+	<You>Вы</You>
+	<SpinTitle>УДАЧИ СПИН</SpinTitle>
+	<SpinTip>Следующее бесплатное вращение {0:D2}:{1:D2}:{2:D2}</SpinTip>
+	<AddSpeedDes>Добавьте еще 150 секунд</AddSpeedDes>
+	<TapClose>Нажмите, чтобы закрыть</TapClose>
+	<ArchitecturePack>АРХИТЕКТУРНЫЙ ПАКЕТ</ArchitecturePack>
+	<IncomePack>Пакет доходов</IncomePack>
+	<ArchitecturePackDes>Получить здание X4</ArchitecturePackDes>
+	<IncomePackDes>Доход вверх X5</IncomePackDes>
+	<ExchangeTitle>ВАЛЮТНАЯ БИРЖА ВАЛЮТНАЯ БИРЖА</ExchangeTitle>
+	<Min>минимальный</Min>
+	<Max>Максимум</Max>
+	<ExchangeBtn>обмен</ExchangeBtn>
+	<DiamondShopTitle>АЛМАЗНЫЙ МАГАЗИН</DiamondShopTitle>
+	<OfferTimeEnd>Предложения заканчиваются в</OfferTimeEnd>
+	<Diamonds>бриллианты</Diamonds>
+	<TimeWerp>Время деформироваться</TimeWerp>
+	<UnlockBuilding>Разблокировать новое здание</UnlockBuilding>
+	<Confirm>ПОДТВЕРДИТЬ</Confirm>
+	<WarningNoMoreBlock>Нет больше пустых блоков</WarningNoMoreBlock>
+	<NetWordBroken>Сбой подключения к сети</NetWordBroken>
+	<NoMoreCoin>Не хватает монет</NoMoreCoin>
+	<NoProfit>Нет прибыли!</NoProfit>
+	<LockWarning>Получить здания {0}, чтобы разблокировать.</LockWarning>
+	<SpeedTimeLimit>Ограничение времени ускорения</SpeedTimeLimit>
+	<Congratulation>ПОЗДРАВЛЕНИЕ</Congratulation>
+	<BecomeVip>Станьте Золотым Членом!</BecomeVip>
+	<LevelUpGet>новый</LevelUpGet>
+	<NewBlock>Новый Блок</NewBlock>
+	<NewPath>Новый Путь</NewPath>
+	<Guide1>Добро пожаловать в городок! Давайте начнем новое путешествие, чтобы открыть для себя город.</Guide1>
+	<Guide2>Сначала вам нужно нажать, чтобы купить новое здание.</Guide2>
+	<Guide3>Большой! давайте перетащим здание, чтобы выровнять его.</Guide3>
+	<Guide4>Удивительно! Вы учитесь очень быстро.</Guide4>
+	<Guide5>Теперь перетащите здание на дорожку, чтобы заработать монеты.</Guide5>
+	<Guide6>Потрясающие! Чем выше уровень строительства, тем больше монет и быстрее! Теперь наслаждайтесь вашей поездкой в Игра города!</Guide6>
+	<TapContinue>Нажмите, чтобы продолжить</TapContinue>
+
+	<Building1>Голубая кабина</Building1>
+	<Building2>розовый Салон самолета</Building2>
+	<Building3>Фиолетовая каюта</Building3>
+	<Building4>Желтая кабина</Building4>
+	<Building5>Чистая кабина</Building5>
+	<Building6>Роза Салон самолета</Building6>
+	<Building7>Романтическая хижина</Building7>
+	<Building8>Уютный домик</Building8>
+	<Building9>Зимний домик</Building9>
+	<Building10>Весенний домик</Building10>
+	<Building11>Летний домик</Building11>
+	<Building12>Осенний домик</Building12>
+	<Building13>Подарочный магазин</Building13>
+	<Building14>Магазин сладостей</Building14>
+	<Building15>Кофейный магазин</Building15>
+	<Building16>Кондитерская</Building16>
+	<Building17>Магазин одежды</Building17>
+	<Building18>Фруктовый магазин</Building18>
+	<Building19>Цветочный магазин</Building19>
+	<Building20>Супермаркет</Building20>
+	<Building21>Мороженое Ван</Building21>
+	<Building22>киоск</Building22>
+	<Building23>Волшебный Магазин</Building23>
+	<Building24>Банка</Building24>
+	<Building25>Продуктовый магазин</Building25>
+	<Building26>Магазин Разнообразия</Building26>
+	<Building27>Универмаг</Building27>
+	<Building28>Торговый центр</Building28>
+	<Building29>пешка</Building29>
+	<Building30>Недвижимость</Building30>
+	<Building31>Ресторан</Building31>
+	<Building32>больница</Building32>
+	<Building33>Гостиница</Building33>
+	<Building34>Светлый дом</Building34>
+	<Building35>Полицейский участок</Building35>
+	<Building36>Ратуша</Building36>
+	<Building37>Железнодорожная станция</Building37>
+	<Building38>Фиолетовая мельница</Building38>
+	<Building39>Голубая мельница</Building39>
+	<Building40>Красная мельница</Building40>
+	<FourHoursProfit>Получите прибыль за 4 часа!</FourHoursProfit>
+	<OneDayProfit>Получите прибыль за 1 день!</OneDayProfit>
+	<FourGiftBox>Получи 4 подарочные коробки!</FourGiftBox>
+	<SpeedUpX2>Ускорить X2</SpeedUpX2>
+	<GetDiamond20>Получить бриллианты X20</GetDiamond20>
+	<UnlockQuest>Квесты были разблокированы!</UnlockQuest>
+	<UnlockBoosts>Магазин бустеров был разблокирован</UnlockBoosts>
+	<BoostShopTip>Получите {0} прибыли сразу же!</BoostShopTip>
+	<DailyQuest>Ежедневные квесты</DailyQuest>
+	<ACHIEVEMENTS>ДОСТИЖЕНИЯ</ACHIEVEMENTS>
+	<Spin>ВРАЩЕНИЕ</Spin>
+	<BoostShop>МАГАЗИН БУСТОВ</BoostShop>
+	<Manyhours> часов</Manyhours>
+	<Onehour> час</Onehour>
+	<Manydays> дней</Manydays>
+	<Oneday> день</Oneday>
+	<OnSaleDes>Поздравляем! В продаже подарок был разблокирован!</OnSaleDes>
+	<RateGetDiamond20>Оцените сейчас, чтобы получить 20 бриллиантов!</RateGetDiamond20>
+	<Recycle>Перетащите ненужные здания в корзину для переработки</Recycle>
+</Russia>
+</language> 

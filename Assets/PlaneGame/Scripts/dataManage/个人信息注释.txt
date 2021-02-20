@@ -1,0 +1,27 @@
+<personinfo>
+  <Level>1</等级>
+  <Exp>0</经验>
+  <Name>""</名字>
+  <EquipmentId>0</装备Id>
+  <IncomeSecond>0</每秒收益>
+  <IncomeSecondUnit>0</每秒收益单位>
+  <IncomeAll>0</累计收益（历史收益）>
+  <IncomeAllUnit>0</累计收益单位>
+  <IncomeBuffNum>0</收益buff数值>
+  <CutPriceBuffNum>0</降价buff数值>
+  <Coins>0</飞机金币数量>
+  <CoinsUnit>0<飞机金币单位>
+  <PathCoins>0</跑道金币数量>
+  <PathCoinsUnit>0</跑道金币数量单位>
+  <Diamond>0</钻石数量>
+  <SoundEffect>1</SoundEffect>
+  <SoundMusic>1</SoundMusic>
+  <RoleActiviteNum>0</活跃在跑道上的角色数量>
+  <RoleMaxNum>0</跑道所容纳的角色数量最大值>
+  <BlockNum>4</地块>
+  <IsGoldVip>0</是否是黄金会员>
+  <SpeedBuffTime>0</双倍速度的持续时间>
+  <GetMaxBuildLv>0</当前得到的最大建筑等级>
+  <IsExitFree>0</是否存在 免费购买>
+  <LoginTime>0</记录登录时间>
+</personinfo>
